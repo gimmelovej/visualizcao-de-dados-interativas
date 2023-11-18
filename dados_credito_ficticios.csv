@@ -1,0 +1,1001 @@
+id,default,idade,sexo,dependentes,escolaridade,estado_civil,salario_anual,tipo_cartao,meses_de_relacionamento,qtd_produtos,iteracoes_12m,meses_inativo_12m,limite_credito,valor_transacoes_12m,qtd_transacoes_12m
+1,1,39,M,3,Graduação,Divorciado,46884,Silver,24,2,35,2,11098,40195,84
+2,0,53,M,3,Pós-Graduação,Divorciado,130405,Platinum,63,2,45,3,11437,23281,228
+3,0,53,M,2,Graduação,Casado,29761,Gold,77,4,23,0,23577,40490,102
+4,1,43,F,3,Ensino Médio,Solteiro,40063,Gold,50,3,2,0,40004,15162,489
+5,1,59,F,2,Ensino Médio,Casado,112990,Silver,40,4,50,6,7747,26855,95
+6,1,66,F,5,Pós-Graduação,Divorciado,88350,Blue,84,4,16,1,33118,10678,74
+7,0,23,M,0,Ensino Médio,Divorciado,92352,Silver,93,1,32,4,36791,32425,452
+8,1,54,F,0,Pós-Graduação,Solteiro,68731,Platinum,82,3,40,10,17845,24983,287
+9,1,50,F,5,Pós-Graduação,Divorciado,85287,Gold,111,3,11,0,17238,16380,400
+10,0,33,M,3,Graduação,Viúvo,80249,Blue,24,4,42,1,33245,15337,236
+11,1,37,M,4,Pós-Graduação,Solteiro,54510,Platinum,62,2,26,10,14351,26244,474
+12,1,58,M,2,Graduação,Casado,94044,Silver,120,3,14,5,28117,27442,132
+13,0,65,F,2,Ensino Médio,Solteiro,71873,Blue,35,4,28,3,11082,29674,107
+14,1,26,M,1,Ensino Médio,Casado,145778,Silver,119,4,25,1,11606,47920,324
+15,0,70,M,5,Ensino Médio,Divorciado,82496,Platinum,22,2,50,2,34909,30979,170
+16,1,32,M,4,Graduação,Casado,57057,Gold,60,5,37,5,33874,43232,343
+17,0,60,M,3,Pós-Graduação,Casado,53699,Gold,77,2,33,8,37943,24938,149
+18,0,59,M,3,Graduação,Viúvo,20630,Silver,15,1,3,4,44464,29596,305
+19,0,60,F,3,Pós-Graduação,Casado,93068,Blue,115,1,22,0,5023,25283,173
+20,1,36,F,3,Graduação,Solteiro,50021,Silver,47,4,18,2,8087,47564,129
+21,1,21,M,2,Graduação,Solteiro,94916,Blue,71,4,32,12,35571,49759,496
+22,0,59,F,3,Graduação,Casado,20166,Silver,100,1,24,0,20080,29102,498
+23,1,26,F,2,Pós-Graduação,Divorciado,42203,Silver,22,3,48,6,16147,9007,282
+24,0,20,F,2,Ensino Médio,Viúvo,28896,Blue,96,4,13,11,16748,2076,129
+25,0,57,F,5,Ensino Médio,Solteiro,91939,Gold,9,2,5,2,43995,7931,474
+26,0,38,M,0,Graduação,Divorciado,78195,Platinum,67,5,41,12,25898,29989,193
+27,1,68,M,2,Pós-Graduação,Divorciado,141961,Platinum,43,4,38,4,38775,44936,484
+28,1,39,M,4,Graduação,Divorciado,55709,Platinum,103,4,3,1,34851,43546,460
+29,1,41,M,1,Ensino Médio,Casado,149960,Gold,55,4,9,12,8822,30555,40
+30,0,49,M,3,Ensino Médio,Viúvo,25652,Gold,89,5,4,12,25029,47729,94
+31,1,59,M,0,Ensino Médio,Viúvo,38609,Blue,79,2,50,4,26848,8904,324
+32,1,24,M,4,Pós-Graduação,Divorciado,149621,Blue,2,2,48,5,11126,30633,112
+33,1,41,M,0,Graduação,Divorciado,127844,Gold,102,1,1,3,42970,48036,220
+34,0,53,F,0,Pós-Graduação,Solteiro,103206,Blue,54,4,20,4,31091,33471,357
+35,1,47,F,0,Ensino Médio,Solteiro,30920,Silver,31,5,48,4,37316,13449,76
+36,0,66,M,3,Graduação,Solteiro,28665,Gold,82,3,43,12,37277,48866,422
+37,0,56,F,0,Pós-Graduação,Viúvo,120804,Gold,55,4,48,4,43044,42236,90
+38,0,23,M,2,Graduação,Casado,116721,Silver,43,1,26,3,33808,17220,442
+39,0,28,M,4,Ensino Médio,Viúvo,64262,Silver,23,3,43,4,15541,2695,366
+40,1,46,F,3,Pós-Graduação,Viúvo,72323,Platinum,53,5,14,9,20417,48555,285
+41,1,56,F,2,Ensino Médio,Solteiro,142958,Gold,66,1,18,5,39029,41866,112
+42,1,52,M,5,Pós-Graduação,Divorciado,69326,Platinum,92,3,50,2,32027,4426,458
+43,1,34,F,1,Graduação,Viúvo,57587,Platinum,66,5,28,5,24401,3049,290
+44,0,27,F,3,Ensino Médio,Viúvo,148833,Gold,23,3,2,8,20443,23704,325
+45,0,56,F,5,Graduação,Divorciado,56573,Blue,34,1,13,0,18663,34823,17
+46,1,40,F,5,Graduação,Viúvo,51954,Silver,109,1,31,2,33061,1952,343
+47,0,37,F,1,Graduação,Divorciado,97634,Blue,84,4,35,1,49619,23976,338
+48,1,64,F,0,Ensino Médio,Casado,49740,Silver,38,4,23,7,21493,29606,154
+49,0,58,M,4,Graduação,Viúvo,38206,Blue,50,5,50,11,44543,37338,78
+50,1,49,F,4,Pós-Graduação,Solteiro,20939,Silver,71,4,16,6,41718,12515,403
+51,0,39,M,1,Pós-Graduação,Solteiro,134906,Blue,55,1,11,3,47580,43078,379
+52,0,63,F,1,Graduação,Viúvo,84689,Blue,37,5,13,5,44348,5252,188
+53,0,29,F,0,Graduação,Solteiro,113404,Blue,114,5,39,4,44085,19559,221
+54,0,44,F,3,Ensino Médio,Divorciado,81133,Platinum,49,4,18,10,45984,33017,122
+55,1,38,M,4,Ensino Médio,Solteiro,30722,Gold,118,5,40,2,21319,24203,223
+56,0,32,F,0,Graduação,Solteiro,142264,Gold,95,2,16,0,17911,43034,267
+57,1,62,F,2,Graduação,Casado,32409,Gold,22,2,23,0,36130,26476,192
+58,1,67,F,5,Pós-Graduação,Casado,65419,Gold,67,2,2,1,20002,15183,240
+59,1,50,F,4,Pós-Graduação,Casado,37108,Gold,104,4,48,12,12844,22380,21
+60,1,30,F,4,Graduação,Casado,57499,Silver,2,2,34,2,7517,6398,97
+61,0,47,M,1,Graduação,Viúvo,37077,Blue,25,2,22,9,38012,28392,78
+62,0,68,M,0,Ensino Médio,Casado,76018,Platinum,78,1,9,8,15770,32035,136
+63,1,42,M,0,Ensino Médio,Casado,70971,Platinum,98,2,50,12,16705,49649,357
+64,0,45,F,5,Pós-Graduação,Solteiro,107187,Silver,62,4,21,9,7562,18789,385
+65,0,43,M,5,Graduação,Solteiro,105509,Platinum,38,4,2,4,8695,5082,122
+66,1,59,F,4,Ensino Médio,Viúvo,61514,Gold,19,3,19,11,33187,19805,364
+67,1,22,F,4,Pós-Graduação,Viúvo,105553,Blue,115,4,24,11,37879,35769,250
+68,0,18,M,3,Pós-Graduação,Viúvo,82850,Blue,37,2,0,10,10285,40703,381
+69,1,38,M,0,Graduação,Viúvo,36735,Platinum,75,1,43,7,24260,36166,417
+70,0,39,F,5,Ensino Médio,Solteiro,124150,Blue,12,2,11,10,21206,21391,29
+71,1,19,F,4,Ensino Médio,Divorciado,94612,Silver,16,5,18,8,45687,8399,97
+72,1,42,M,1,Graduação,Solteiro,85207,Gold,96,5,9,11,10211,15186,94
+73,0,43,F,3,Ensino Médio,Viúvo,21630,Gold,75,5,32,2,36215,38093,49
+74,1,29,M,2,Graduação,Solteiro,40092,Blue,112,4,28,11,22025,37735,146
+75,1,62,M,2,Pós-Graduação,Divorciado,148023,Platinum,17,2,17,4,47014,29869,313
+76,0,34,F,1,Pós-Graduação,Solteiro,119970,Gold,32,5,22,2,46525,27620,113
+77,0,62,M,2,Pós-Graduação,Casado,48815,Blue,30,4,36,7,29659,13263,93
+78,0,65,F,5,Pós-Graduação,Solteiro,78825,Blue,89,3,19,6,28193,8792,447
+79,1,33,M,4,Pós-Graduação,Divorciado,87879,Silver,102,4,38,0,8181,33009,500
+80,1,70,M,1,Pós-Graduação,Casado,49769,Platinum,52,2,26,1,33877,24862,298
+81,1,36,F,3,Pós-Graduação,Casado,90962,Gold,104,5,11,3,46353,29786,210
+82,1,56,M,3,Pós-Graduação,Divorciado,80003,Silver,1,1,16,6,40386,48679,384
+83,1,51,M,2,Pós-Graduação,Divorciado,121142,Blue,84,3,20,3,43870,19006,429
+84,1,56,F,0,Graduação,Viúvo,118619,Gold,28,3,36,7,18137,47928,261
+85,1,33,F,4,Graduação,Divorciado,101867,Blue,116,3,9,3,36300,23628,490
+86,1,60,M,3,Graduação,Divorciado,147486,Blue,40,1,1,11,13506,16846,29
+87,1,60,F,5,Ensino Médio,Viúvo,69337,Platinum,70,3,48,10,9353,11895,434
+88,0,68,F,5,Ensino Médio,Divorciado,107151,Gold,46,5,10,3,23310,41002,489
+89,0,66,F,1,Ensino Médio,Viúvo,60326,Platinum,71,5,43,6,32895,9677,12
+90,0,28,F,2,Pós-Graduação,Solteiro,51548,Silver,12,5,4,8,9546,16964,291
+91,0,19,M,2,Graduação,Casado,53813,Silver,36,4,41,3,46977,27260,394
+92,1,60,M,5,Pós-Graduação,Divorciado,87598,Silver,54,5,29,0,18869,34655,334
+93,1,45,M,3,Pós-Graduação,Divorciado,95619,Gold,107,5,34,1,40765,19934,139
+94,1,50,F,4,Ensino Médio,Solteiro,26340,Blue,77,5,49,9,46493,6821,243
+95,0,25,M,3,Pós-Graduação,Solteiro,33981,Gold,73,1,30,2,26043,15052,199
+96,0,26,M,1,Pós-Graduação,Divorciado,138629,Gold,28,2,13,11,12801,23318,126
+97,0,54,F,2,Graduação,Divorciado,80562,Platinum,103,2,25,11,32627,48221,33
+98,0,26,F,0,Ensino Médio,Casado,112261,Platinum,102,4,13,0,16972,38902,26
+99,0,33,F,1,Ensino Médio,Solteiro,74647,Gold,53,1,30,10,38603,35760,314
+100,0,66,F,0,Graduação,Divorciado,134596,Blue,72,1,0,6,42571,43846,430
+101,0,53,M,5,Ensino Médio,Casado,134283,Platinum,83,2,4,2,19771,36625,71
+102,1,55,M,1,Graduação,Solteiro,82426,Platinum,83,4,42,7,14235,1006,173
+103,1,33,F,4,Graduação,Casado,47973,Gold,5,4,48,2,5908,25206,492
+104,0,47,F,3,Pós-Graduação,Viúvo,122175,Platinum,40,4,5,4,38271,37911,83
+105,1,26,M,4,Pós-Graduação,Viúvo,130173,Silver,14,4,17,3,17232,45536,24
+106,0,66,M,2,Graduação,Viúvo,89144,Gold,25,4,24,8,25122,4374,212
+107,1,50,M,5,Graduação,Divorciado,131501,Silver,51,2,14,12,33342,48700,143
+108,1,28,M,4,Pós-Graduação,Solteiro,86192,Blue,7,3,12,3,9752,16304,294
+109,1,57,F,5,Pós-Graduação,Viúvo,93041,Blue,41,4,40,6,44560,38012,91
+110,1,70,M,0,Ensino Médio,Viúvo,141619,Platinum,45,1,3,5,47861,18320,287
+111,1,51,F,1,Pós-Graduação,Viúvo,29924,Blue,119,5,18,0,5047,10854,485
+112,0,52,M,4,Graduação,Viúvo,49157,Gold,81,1,11,11,46519,35317,235
+113,1,70,F,1,Graduação,Viúvo,48989,Blue,45,5,10,10,35750,36910,371
+114,1,38,M,0,Ensino Médio,Casado,103368,Gold,87,4,13,12,13760,3111,140
+115,1,49,F,1,Pós-Graduação,Divorciado,95812,Gold,31,5,29,11,40991,38702,29
+116,1,66,M,5,Pós-Graduação,Solteiro,34085,Gold,36,5,6,8,18068,16118,76
+117,1,63,F,4,Graduação,Divorciado,76487,Platinum,66,4,35,6,31198,3174,461
+118,1,27,F,1,Pós-Graduação,Divorciado,63481,Silver,84,4,1,0,34918,12356,303
+119,0,43,F,3,Pós-Graduação,Divorciado,45897,Blue,7,5,31,0,40613,23972,303
+120,0,54,F,3,Graduação,Divorciado,102630,Blue,21,4,1,9,48614,24291,196
+121,1,45,M,2,Graduação,Divorciado,128040,Platinum,46,3,3,3,7736,28927,151
+122,0,68,M,0,Ensino Médio,Viúvo,68093,Blue,88,1,3,3,29971,18704,220
+123,0,58,F,3,Graduação,Solteiro,39752,Gold,23,3,6,11,49300,41939,308
+124,1,19,M,3,Graduação,Solteiro,86707,Silver,33,3,24,4,37063,27657,333
+125,1,62,M,2,Graduação,Divorciado,51436,Gold,15,5,15,11,30877,25315,334
+126,0,51,M,1,Graduação,Viúvo,26471,Blue,47,2,7,6,43254,13014,233
+127,0,59,M,4,Ensino Médio,Solteiro,67553,Silver,37,3,18,9,27397,17861,221
+128,0,56,F,5,Graduação,Viúvo,109521,Blue,76,3,12,2,14015,27417,142
+129,0,33,F,4,Ensino Médio,Viúvo,55171,Blue,2,3,41,5,44470,37717,275
+130,0,18,M,1,Graduação,Casado,123429,Blue,68,1,37,7,18072,5247,250
+131,1,56,M,0,Pós-Graduação,Divorciado,52453,Platinum,87,3,3,3,10116,12074,386
+132,0,38,F,4,Graduação,Solteiro,68469,Gold,34,1,22,11,19198,5400,327
+133,0,56,F,3,Graduação,Solteiro,144395,Blue,60,4,18,12,38970,29878,116
+134,1,70,M,4,Pós-Graduação,Viúvo,78113,Silver,39,3,19,8,35196,20895,281
+135,1,24,F,3,Graduação,Casado,123308,Silver,110,3,24,7,21245,28640,112
+136,1,59,F,2,Ensino Médio,Solteiro,85801,Silver,41,1,17,10,37130,37163,313
+137,0,22,M,4,Pós-Graduação,Solteiro,48942,Blue,15,3,2,8,29888,21692,434
+138,1,27,F,3,Pós-Graduação,Divorciado,31165,Gold,41,3,37,8,8749,13580,130
+139,0,33,F,5,Pós-Graduação,Viúvo,149793,Gold,67,1,30,10,16012,39169,452
+140,0,48,F,3,Graduação,Solteiro,116405,Silver,19,4,38,3,23894,44373,342
+141,0,50,M,4,Graduação,Solteiro,69651,Silver,75,1,45,0,38093,28451,379
+142,0,18,F,2,Ensino Médio,Solteiro,64526,Blue,50,1,35,8,43729,17901,125
+143,1,40,F,4,Ensino Médio,Casado,52743,Gold,19,2,16,9,17883,12403,436
+144,1,34,F,3,Graduação,Divorciado,138591,Blue,17,3,3,7,7861,46571,351
+145,0,63,F,0,Ensino Médio,Divorciado,50607,Silver,88,1,33,4,8332,48498,335
+146,1,48,F,2,Ensino Médio,Divorciado,99408,Silver,54,1,4,5,39270,7689,388
+147,1,27,M,2,Pós-Graduação,Solteiro,68957,Platinum,33,3,7,4,7499,36146,118
+148,0,39,M,3,Ensino Médio,Solteiro,96613,Platinum,77,3,41,3,46756,11250,223
+149,1,64,M,5,Pós-Graduação,Solteiro,88744,Platinum,74,5,21,11,21465,6247,85
+150,0,53,M,2,Ensino Médio,Solteiro,27858,Silver,110,2,22,3,8517,27103,432
+151,0,36,F,4,Pós-Graduação,Casado,60204,Platinum,36,2,40,3,44824,13133,125
+152,1,45,F,2,Ensino Médio,Divorciado,121463,Gold,61,2,6,9,8267,18990,105
+153,1,44,F,4,Ensino Médio,Solteiro,58789,Gold,5,5,11,5,11363,26123,156
+154,0,69,F,4,Graduação,Viúvo,24888,Platinum,23,5,12,0,17848,15574,151
+155,0,66,F,0,Pós-Graduação,Casado,71834,Blue,115,2,0,10,34255,5146,80
+156,1,70,F,1,Graduação,Solteiro,56769,Blue,30,5,42,8,18454,28251,335
+157,1,41,M,0,Pós-Graduação,Divorciado,98667,Silver,91,5,34,0,23650,26977,102
+158,1,30,F,1,Ensino Médio,Solteiro,47016,Silver,23,5,33,7,26453,12475,489
+159,0,45,M,2,Ensino Médio,Solteiro,145458,Silver,109,2,38,6,17730,2534,54
+160,0,39,M,3,Pós-Graduação,Viúvo,107987,Gold,37,4,50,5,49871,25144,100
+161,1,70,M,3,Pós-Graduação,Viúvo,47953,Blue,111,4,3,6,43528,9437,19
+162,0,54,M,3,Pós-Graduação,Solteiro,115890,Silver,65,2,17,5,40306,21324,236
+163,1,35,M,4,Ensino Médio,Casado,147080,Blue,88,4,5,6,12072,49494,212
+164,1,25,M,5,Ensino Médio,Casado,89074,Blue,12,5,1,11,7103,18495,430
+165,0,58,M,1,Ensino Médio,Solteiro,38520,Blue,19,2,31,12,40042,34983,175
+166,1,63,F,5,Ensino Médio,Solteiro,112981,Gold,1,1,49,7,11851,20804,383
+167,0,22,M,1,Ensino Médio,Viúvo,53072,Gold,11,3,14,0,21892,1106,30
+168,1,28,M,4,Ensino Médio,Solteiro,57812,Blue,2,5,32,8,43770,45453,315
+169,1,33,M,0,Graduação,Divorciado,42228,Blue,92,1,4,12,17206,33813,451
+170,1,31,M,1,Pós-Graduação,Casado,101734,Silver,74,4,4,3,19971,29008,103
+171,1,57,F,4,Ensino Médio,Divorciado,59975,Blue,115,4,2,2,20988,10045,211
+172,1,29,M,2,Graduação,Casado,116722,Silver,15,5,31,4,37843,45642,299
+173,1,51,F,1,Pós-Graduação,Solteiro,84054,Blue,118,3,25,0,9135,10114,324
+174,1,46,M,1,Graduação,Solteiro,143504,Gold,53,4,48,10,26021,41297,239
+175,1,20,F,5,Ensino Médio,Solteiro,89858,Gold,48,3,49,10,22212,36292,148
+176,0,63,F,0,Pós-Graduação,Viúvo,34861,Blue,33,2,6,10,39475,44674,395
+177,0,31,M,4,Pós-Graduação,Divorciado,106091,Gold,76,4,40,0,41274,42914,36
+178,0,48,F,1,Graduação,Divorciado,134940,Platinum,117,5,25,1,33850,26344,172
+179,1,33,F,4,Ensino Médio,Solteiro,22740,Blue,66,3,46,2,32317,49136,392
+180,1,58,F,1,Graduação,Casado,116061,Platinum,55,2,38,5,47189,21984,192
+181,1,67,M,1,Graduação,Casado,95431,Platinum,90,3,36,7,38619,6999,466
+182,0,45,F,3,Ensino Médio,Viúvo,25927,Blue,70,3,28,10,17889,35593,495
+183,1,62,M,2,Graduação,Casado,92483,Blue,82,5,25,12,26877,22078,401
+184,1,31,F,3,Graduação,Casado,114678,Platinum,81,1,28,8,49201,5113,408
+185,1,48,F,2,Graduação,Divorciado,111093,Silver,59,5,17,4,5439,8168,169
+186,1,63,F,3,Ensino Médio,Casado,121664,Blue,14,2,26,9,47457,22201,268
+187,0,23,F,4,Pós-Graduação,Casado,32512,Gold,59,2,32,3,44400,35635,94
+188,0,33,F,3,Pós-Graduação,Solteiro,77531,Gold,7,2,2,1,43124,39156,318
+189,1,64,M,4,Ensino Médio,Casado,32846,Gold,117,1,21,11,39581,3744,14
+190,1,32,F,3,Graduação,Divorciado,59487,Gold,38,3,16,7,47485,7232,20
+191,0,68,M,5,Graduação,Divorciado,95797,Gold,60,4,40,6,39042,34135,296
+192,1,47,F,4,Ensino Médio,Solteiro,149997,Gold,1,1,49,11,24808,32309,348
+193,1,63,M,1,Graduação,Divorciado,43506,Platinum,6,5,41,0,32261,32686,184
+194,0,67,F,3,Graduação,Casado,50393,Silver,48,1,7,1,20366,19580,40
+195,1,46,F,2,Graduação,Solteiro,63816,Gold,99,1,28,1,43746,15297,248
+196,1,52,F,0,Ensino Médio,Casado,111882,Gold,32,4,23,11,48803,38874,464
+197,1,36,M,0,Graduação,Divorciado,58268,Silver,48,4,10,11,7605,36026,173
+198,1,33,M,5,Graduação,Viúvo,149150,Gold,19,5,18,9,6740,45725,121
+199,1,54,F,1,Ensino Médio,Viúvo,147414,Blue,84,1,36,9,20637,1362,329
+200,1,53,M,2,Pós-Graduação,Viúvo,124959,Platinum,52,5,32,9,45882,12854,402
+201,1,43,M,0,Graduação,Viúvo,102503,Silver,21,4,18,6,24767,33354,275
+202,1,57,M,0,Ensino Médio,Viúvo,74315,Platinum,48,4,48,7,24230,34587,195
+203,1,69,F,5,Graduação,Solteiro,51050,Blue,52,1,11,1,33101,20736,408
+204,1,45,M,4,Pós-Graduação,Viúvo,112081,Silver,14,2,45,6,22838,18267,453
+205,0,37,M,4,Ensino Médio,Divorciado,51599,Gold,90,5,27,4,8291,33730,160
+206,1,46,F,0,Ensino Médio,Viúvo,78280,Gold,9,3,45,8,16610,2729,402
+207,0,34,M,2,Ensino Médio,Solteiro,79795,Silver,52,4,1,3,26709,14169,133
+208,0,41,M,0,Pós-Graduação,Casado,79276,Gold,78,1,6,3,33917,30808,405
+209,0,35,F,5,Graduação,Solteiro,25390,Blue,118,3,14,3,47314,37062,121
+210,0,68,F,2,Graduação,Solteiro,104591,Platinum,51,3,24,10,27053,17950,385
+211,1,60,M,3,Graduação,Viúvo,36155,Platinum,17,2,33,6,38408,8276,134
+212,0,57,M,0,Ensino Médio,Casado,114487,Platinum,94,2,8,12,19674,43432,399
+213,0,40,M,1,Ensino Médio,Divorciado,71250,Blue,43,3,17,2,11939,16072,339
+214,0,67,M,2,Ensino Médio,Viúvo,23801,Platinum,28,5,26,8,34497,20796,175
+215,1,51,M,0,Ensino Médio,Divorciado,131764,Platinum,55,3,32,9,27045,11774,432
+216,0,62,M,4,Ensino Médio,Viúvo,94098,Gold,86,1,4,9,35312,4057,378
+217,1,57,F,1,Pós-Graduação,Viúvo,30003,Platinum,35,4,20,3,15505,19179,361
+218,0,19,M,1,Ensino Médio,Casado,38934,Silver,71,3,20,9,17811,44791,253
+219,1,28,M,3,Graduação,Divorciado,88846,Blue,26,4,4,10,13033,9844,265
+220,1,20,F,1,Pós-Graduação,Viúvo,106846,Blue,97,5,18,5,10093,26375,193
+221,1,18,M,5,Ensino Médio,Solteiro,149581,Silver,110,1,36,11,18800,44904,293
+222,1,39,F,2,Graduação,Viúvo,119405,Blue,49,5,1,6,39990,31878,369
+223,1,27,F,2,Pós-Graduação,Divorciado,145734,Platinum,50,5,41,3,10127,5852,65
+224,1,24,M,3,Pós-Graduação,Casado,96585,Gold,29,2,36,8,42060,8933,38
+225,1,69,F,0,Graduação,Solteiro,97935,Blue,5,5,19,1,26407,28397,215
+226,0,39,M,2,Graduação,Casado,106341,Blue,114,4,28,9,29442,39310,136
+227,1,18,M,3,Ensino Médio,Solteiro,33554,Platinum,61,3,22,5,39619,38070,55
+228,1,67,M,2,Ensino Médio,Solteiro,65899,Platinum,39,3,18,4,30551,22752,271
+229,1,34,F,2,Pós-Graduação,Casado,24588,Silver,6,4,45,0,12259,12511,211
+230,0,62,F,5,Pós-Graduação,Casado,80901,Gold,105,5,7,2,29485,21710,351
+231,0,38,F,1,Pós-Graduação,Casado,48076,Blue,90,4,23,7,44141,11443,245
+232,0,52,M,3,Ensino Médio,Casado,27711,Platinum,98,2,40,2,11967,5890,360
+233,0,33,F,2,Ensino Médio,Viúvo,74941,Platinum,32,1,25,3,12323,48318,186
+234,1,35,F,3,Graduação,Viúvo,41516,Gold,49,1,7,12,20266,17232,460
+235,1,64,M,2,Ensino Médio,Divorciado,94199,Blue,72,5,36,7,22352,27893,204
+236,0,68,M,2,Ensino Médio,Viúvo,86512,Blue,76,3,15,4,30171,12125,257
+237,1,28,M,0,Ensino Médio,Casado,57954,Silver,72,5,10,7,29947,16352,159
+238,1,27,F,1,Pós-Graduação,Viúvo,20973,Blue,62,3,27,11,48428,36349,71
+239,1,53,F,3,Ensino Médio,Viúvo,55645,Platinum,64,1,12,4,24576,15674,318
+240,1,39,F,4,Ensino Médio,Viúvo,29026,Silver,93,5,1,6,42481,8463,195
+241,0,29,F,0,Graduação,Divorciado,120881,Silver,38,4,10,0,41155,28578,268
+242,0,26,M,5,Pós-Graduação,Divorciado,97938,Blue,101,2,46,1,8146,20059,248
+243,1,57,F,1,Ensino Médio,Solteiro,134109,Gold,58,4,3,10,30128,32649,175
+244,0,62,F,0,Pós-Graduação,Viúvo,103255,Gold,69,2,41,0,35705,21149,150
+245,1,33,F,4,Pós-Graduação,Divorciado,48181,Blue,58,5,7,2,48367,25303,293
+246,0,25,F,0,Pós-Graduação,Viúvo,50781,Gold,28,2,17,2,26445,25321,125
+247,1,19,M,2,Ensino Médio,Solteiro,74316,Blue,113,2,36,8,47221,11168,238
+248,0,62,M,4,Graduação,Casado,120138,Silver,69,2,14,11,25858,30106,56
+249,0,20,M,5,Pós-Graduação,Solteiro,33644,Platinum,17,3,47,4,14680,18793,239
+250,1,27,F,1,Ensino Médio,Solteiro,142765,Silver,93,5,23,11,16553,45151,62
+251,0,69,M,4,Graduação,Divorciado,67562,Gold,42,4,18,7,23704,43584,195
+252,1,70,M,5,Ensino Médio,Casado,23369,Gold,80,4,17,5,18395,15648,349
+253,1,34,F,4,Pós-Graduação,Solteiro,35249,Silver,28,2,29,8,21454,31232,80
+254,0,69,M,0,Ensino Médio,Casado,95836,Blue,14,5,22,11,36801,32356,289
+255,0,27,F,1,Graduação,Solteiro,24927,Blue,107,2,20,2,18989,14992,110
+256,1,50,F,0,Ensino Médio,Divorciado,148301,Gold,48,4,17,8,49460,25881,429
+257,1,63,F,3,Graduação,Solteiro,130188,Gold,112,1,48,11,9785,3670,370
+258,0,51,M,4,Pós-Graduação,Divorciado,106761,Gold,34,2,38,9,31749,7720,328
+259,1,62,M,5,Graduação,Solteiro,108925,Gold,17,4,22,12,11691,7797,451
+260,0,20,F,2,Graduação,Casado,92276,Silver,2,1,11,11,28843,24603,80
+261,0,42,F,2,Pós-Graduação,Solteiro,90131,Silver,16,1,25,9,12105,39464,336
+262,1,39,M,5,Graduação,Solteiro,97456,Blue,75,2,5,3,31067,15456,403
+263,1,25,M,0,Graduação,Casado,131838,Blue,94,2,38,6,29737,40414,143
+264,0,69,M,1,Graduação,Casado,46177,Gold,26,1,29,7,9229,29780,24
+265,1,20,M,1,Graduação,Solteiro,134916,Platinum,4,1,38,4,9141,14859,64
+266,1,23,M,2,Graduação,Viúvo,79431,Platinum,66,2,48,0,11928,14476,229
+267,0,52,F,5,Graduação,Solteiro,100160,Gold,108,2,36,8,43991,34795,363
+268,0,30,F,3,Pós-Graduação,Casado,27752,Blue,38,4,36,7,9322,25571,461
+269,0,61,M,5,Graduação,Viúvo,106715,Gold,112,1,2,0,6153,45627,479
+270,1,61,M,0,Pós-Graduação,Solteiro,71792,Silver,87,1,29,10,31005,28484,358
+271,0,39,F,5,Pós-Graduação,Viúvo,100954,Gold,38,5,15,2,30492,24159,127
+272,0,38,M,4,Graduação,Casado,97952,Platinum,14,3,36,0,25041,42444,317
+273,1,26,M,5,Graduação,Casado,94205,Blue,26,3,39,2,33188,25297,417
+274,1,52,M,2,Graduação,Solteiro,59099,Silver,34,4,16,0,27258,49556,91
+275,0,39,M,4,Ensino Médio,Viúvo,133962,Silver,48,3,6,7,26946,32525,211
+276,0,70,F,3,Pós-Graduação,Viúvo,133174,Platinum,80,2,19,4,21491,41336,491
+277,1,62,M,3,Ensino Médio,Solteiro,118508,Platinum,117,2,20,8,28562,41923,297
+278,0,31,M,0,Ensino Médio,Casado,107857,Blue,18,3,23,6,12114,40146,120
+279,0,67,M,5,Ensino Médio,Casado,122155,Gold,91,2,31,3,39964,30970,51
+280,1,46,F,4,Pós-Graduação,Viúvo,89737,Blue,53,5,15,4,12827,22874,141
+281,1,47,F,2,Graduação,Divorciado,79483,Blue,4,5,28,6,39905,18437,237
+282,0,28,M,1,Pós-Graduação,Divorciado,53025,Blue,61,5,33,11,45198,5124,462
+283,1,62,M,4,Pós-Graduação,Solteiro,91043,Blue,47,5,43,5,37161,2302,452
+284,1,57,F,0,Pós-Graduação,Solteiro,37834,Gold,111,2,0,0,13563,23066,123
+285,1,18,M,5,Ensino Médio,Casado,136753,Platinum,111,2,13,4,42630,28603,408
+286,1,42,F,0,Graduação,Divorciado,96624,Blue,6,3,27,6,41912,27182,477
+287,1,33,M,2,Pós-Graduação,Divorciado,110504,Silver,37,5,17,7,42279,48583,17
+288,1,46,F,3,Graduação,Casado,89265,Gold,109,5,12,3,29457,22529,356
+289,0,53,M,2,Pós-Graduação,Solteiro,47655,Blue,59,2,43,8,23305,15805,342
+290,0,67,F,0,Graduação,Divorciado,93362,Blue,84,3,18,9,13198,28110,200
+291,1,67,M,0,Ensino Médio,Divorciado,145389,Gold,65,3,9,6,23880,21445,62
+292,1,35,M,4,Ensino Médio,Divorciado,79082,Blue,29,3,2,6,47364,47047,116
+293,0,28,F,4,Ensino Médio,Divorciado,37656,Platinum,32,1,6,0,23892,46808,494
+294,1,22,M,0,Pós-Graduação,Casado,148298,Silver,96,2,7,8,15205,43839,373
+295,1,56,M,1,Ensino Médio,Viúvo,116604,Silver,27,5,36,1,32386,29727,289
+296,0,27,M,5,Ensino Médio,Solteiro,54366,Silver,42,3,7,9,27107,37026,222
+297,1,45,F,2,Ensino Médio,Solteiro,85145,Platinum,85,1,41,6,42316,5302,87
+298,1,51,F,2,Ensino Médio,Divorciado,90133,Blue,64,1,27,7,39171,6180,398
+299,0,45,F,3,Ensino Médio,Casado,55039,Blue,103,4,13,8,45518,31595,283
+300,0,69,M,4,Pós-Graduação,Viúvo,108995,Silver,13,1,16,6,28038,46266,246
+301,1,47,F,4,Pós-Graduação,Divorciado,84421,Platinum,34,2,8,9,30616,26179,495
+302,0,35,M,5,Pós-Graduação,Solteiro,112350,Platinum,66,2,26,6,35833,31256,111
+303,0,33,M,3,Graduação,Solteiro,47648,Blue,74,4,32,5,10044,23102,176
+304,1,46,F,3,Pós-Graduação,Viúvo,77571,Gold,90,1,27,6,34672,22172,36
+305,0,70,F,0,Graduação,Casado,146523,Blue,54,3,9,12,34566,3021,59
+306,0,63,F,1,Graduação,Divorciado,97201,Platinum,106,4,33,0,46123,26443,275
+307,1,54,M,0,Pós-Graduação,Casado,109407,Platinum,24,4,28,12,6517,41132,66
+308,1,70,M,2,Graduação,Casado,146398,Platinum,37,4,10,1,30906,27890,151
+309,1,70,M,4,Graduação,Solteiro,127672,Platinum,119,5,48,7,7720,38931,110
+310,0,42,F,2,Graduação,Solteiro,123101,Platinum,113,4,18,0,39257,17032,162
+311,0,49,M,3,Pós-Graduação,Divorciado,133280,Platinum,75,4,2,12,13146,19257,269
+312,1,63,F,5,Ensino Médio,Solteiro,149330,Blue,17,2,8,0,43769,49965,425
+313,1,39,F,5,Ensino Médio,Solteiro,105210,Silver,60,5,14,12,32998,39114,242
+314,1,25,F,3,Graduação,Viúvo,42537,Gold,8,4,35,12,12183,19167,266
+315,0,57,F,5,Graduação,Solteiro,119586,Platinum,18,2,36,7,17642,7352,389
+316,1,30,F,4,Graduação,Solteiro,44288,Silver,86,5,43,11,32118,27856,267
+317,0,42,F,0,Ensino Médio,Solteiro,136985,Silver,30,1,12,8,39885,23019,495
+318,1,60,M,0,Graduação,Casado,29703,Blue,110,2,42,0,41310,1596,331
+319,0,24,F,0,Pós-Graduação,Casado,116669,Platinum,72,2,22,12,41044,34342,471
+320,1,31,F,3,Pós-Graduação,Solteiro,41776,Gold,12,1,44,11,15538,1219,154
+321,1,29,F,2,Ensino Médio,Divorciado,141175,Platinum,62,5,25,10,30431,16853,420
+322,0,18,M,2,Ensino Médio,Solteiro,148572,Platinum,78,5,14,2,20433,41790,411
+323,0,40,F,2,Graduação,Divorciado,27506,Gold,67,3,10,6,34413,19525,157
+324,1,53,M,4,Pós-Graduação,Casado,58380,Silver,11,2,11,12,42068,10527,196
+325,1,53,M,1,Graduação,Casado,30130,Gold,48,2,10,7,20768,37693,406
+326,1,35,M,1,Graduação,Divorciado,69916,Gold,103,3,17,11,10492,10396,290
+327,0,50,M,3,Pós-Graduação,Casado,60394,Blue,82,4,0,2,8754,35079,453
+328,1,30,F,2,Ensino Médio,Divorciado,92263,Blue,96,3,27,10,30820,49200,235
+329,1,31,F,1,Ensino Médio,Divorciado,71435,Blue,1,3,37,3,37582,18447,432
+330,0,66,F,4,Pós-Graduação,Casado,106050,Blue,1,5,4,5,26506,48979,338
+331,0,32,M,2,Pós-Graduação,Viúvo,116121,Platinum,51,1,2,4,44233,23948,450
+332,0,57,F,0,Pós-Graduação,Divorciado,63134,Gold,30,5,22,4,20546,43279,108
+333,0,39,F,1,Pós-Graduação,Casado,132718,Blue,45,1,48,7,41027,39901,188
+334,0,36,M,0,Graduação,Casado,149974,Silver,118,3,45,2,20077,36260,229
+335,0,44,F,2,Graduação,Solteiro,58386,Silver,40,2,32,12,29870,31431,125
+336,1,21,M,3,Pós-Graduação,Divorciado,79665,Platinum,34,5,50,9,40766,13668,213
+337,1,59,M,5,Pós-Graduação,Divorciado,143309,Silver,34,1,40,0,35717,17845,156
+338,1,20,F,0,Graduação,Viúvo,54822,Gold,43,2,24,5,24735,48987,37
+339,0,39,F,3,Graduação,Casado,74854,Platinum,43,2,19,1,45057,39950,459
+340,1,35,M,4,Ensino Médio,Divorciado,114974,Platinum,34,4,4,8,13885,17770,348
+341,0,35,M,4,Pós-Graduação,Divorciado,140875,Silver,57,1,35,8,21989,37637,258
+342,1,37,M,2,Ensino Médio,Solteiro,87927,Silver,15,2,7,9,22209,6858,126
+343,1,42,F,0,Ensino Médio,Solteiro,62374,Gold,90,5,4,4,11448,17852,369
+344,1,58,F,1,Ensino Médio,Solteiro,26122,Platinum,74,4,8,9,30539,12940,327
+345,0,64,M,4,Graduação,Casado,26470,Silver,10,3,15,7,8539,18593,486
+346,0,61,M,3,Pós-Graduação,Viúvo,120923,Blue,47,1,8,7,17215,4784,382
+347,1,29,M,2,Pós-Graduação,Casado,49876,Silver,66,2,22,10,13694,29153,270
+348,0,55,M,2,Pós-Graduação,Viúvo,56318,Gold,69,1,8,11,34809,19640,104
+349,0,56,F,3,Pós-Graduação,Solteiro,36995,Silver,14,1,0,6,43467,5452,83
+350,1,35,M,5,Graduação,Divorciado,83679,Platinum,99,2,48,2,11153,16619,213
+351,1,60,F,1,Ensino Médio,Viúvo,92602,Silver,20,2,9,5,42039,34812,105
+352,0,68,M,4,Ensino Médio,Divorciado,75669,Silver,33,5,5,11,31213,35576,167
+353,1,44,F,4,Ensino Médio,Casado,125160,Gold,69,2,16,1,7056,17720,67
+354,0,69,M,1,Ensino Médio,Viúvo,32350,Blue,47,5,18,0,34515,10145,174
+355,1,66,F,5,Graduação,Casado,27764,Gold,119,4,19,2,43035,33115,119
+356,1,57,M,4,Pós-Graduação,Divorciado,110943,Silver,2,4,39,8,12138,39952,402
+357,0,32,F,5,Ensino Médio,Viúvo,39542,Silver,53,3,16,1,27639,19669,426
+358,1,22,M,3,Graduação,Casado,135808,Blue,50,1,13,10,34655,48511,74
+359,1,67,F,1,Ensino Médio,Divorciado,97482,Gold,9,4,47,7,39515,40679,109
+360,0,57,F,5,Ensino Médio,Divorciado,36239,Silver,13,4,8,11,22614,49877,253
+361,1,58,M,2,Pós-Graduação,Divorciado,55608,Gold,112,1,1,12,33960,1591,464
+362,1,54,F,5,Pós-Graduação,Divorciado,135064,Blue,57,1,0,8,22513,24637,202
+363,0,21,F,2,Ensino Médio,Divorciado,40749,Platinum,101,3,15,7,22689,43795,400
+364,0,21,F,2,Ensino Médio,Divorciado,36544,Gold,17,4,48,4,40251,29997,228
+365,0,69,F,0,Graduação,Solteiro,27691,Gold,28,4,26,12,12514,8809,234
+366,0,23,M,1,Pós-Graduação,Solteiro,120381,Gold,6,3,33,11,23901,17567,368
+367,1,41,M,5,Pós-Graduação,Viúvo,139140,Blue,97,3,40,4,12372,1807,368
+368,0,33,F,2,Ensino Médio,Divorciado,136171,Platinum,67,3,9,2,42038,9751,263
+369,0,70,M,1,Graduação,Casado,25166,Silver,105,2,25,8,11758,28165,47
+370,1,24,M,4,Graduação,Divorciado,135500,Blue,112,4,19,9,18748,4488,125
+371,0,68,F,0,Pós-Graduação,Casado,124454,Gold,14,2,15,1,48365,25516,57
+372,0,64,M,4,Pós-Graduação,Divorciado,112104,Silver,41,1,33,7,27756,4644,325
+373,1,63,M,1,Graduação,Viúvo,59748,Gold,18,4,4,0,45118,24937,376
+374,0,34,F,1,Graduação,Casado,127230,Silver,87,4,8,5,6740,22810,90
+375,0,65,M,5,Pós-Graduação,Divorciado,129255,Blue,6,5,36,8,40200,21372,55
+376,0,45,M,1,Ensino Médio,Viúvo,98545,Silver,100,2,23,7,44938,26004,415
+377,1,23,M,2,Ensino Médio,Solteiro,117490,Platinum,81,4,30,3,37024,2841,253
+378,0,33,F,5,Pós-Graduação,Casado,23820,Platinum,29,1,45,7,27830,48379,479
+379,1,20,F,0,Pós-Graduação,Casado,126550,Blue,5,4,13,0,13126,40772,242
+380,1,57,M,1,Ensino Médio,Divorciado,40292,Blue,83,3,30,12,33266,27223,334
+381,1,34,F,5,Ensino Médio,Divorciado,107539,Blue,65,3,6,8,35109,26800,142
+382,0,49,F,5,Ensino Médio,Casado,143972,Silver,54,2,12,6,17895,33318,425
+383,0,29,M,5,Ensino Médio,Solteiro,78885,Platinum,85,3,44,9,46139,23269,179
+384,0,54,M,0,Pós-Graduação,Casado,21782,Blue,88,3,8,5,33041,47404,340
+385,0,69,F,5,Ensino Médio,Solteiro,45093,Silver,46,4,47,1,24925,3015,450
+386,1,30,M,5,Pós-Graduação,Divorciado,78810,Gold,58,2,32,9,41977,43463,170
+387,1,25,M,2,Ensino Médio,Divorciado,110687,Silver,113,1,12,5,43358,41839,59
+388,1,57,F,5,Pós-Graduação,Solteiro,147642,Platinum,87,3,19,9,29980,48993,315
+389,0,52,M,5,Graduação,Solteiro,29022,Gold,103,4,27,10,12788,4734,425
+390,1,54,M,2,Ensino Médio,Casado,93506,Platinum,115,1,45,1,47249,10388,420
+391,1,59,F,0,Graduação,Casado,88045,Silver,74,2,7,10,28627,12770,418
+392,1,67,M,3,Graduação,Solteiro,38870,Platinum,26,2,36,2,48550,16572,413
+393,1,24,F,2,Graduação,Divorciado,55812,Gold,18,1,9,0,43990,39028,375
+394,1,23,M,4,Ensino Médio,Solteiro,126041,Blue,48,5,42,5,9192,13838,209
+395,0,49,M,2,Pós-Graduação,Divorciado,148014,Gold,32,3,29,9,42679,9553,72
+396,0,55,M,4,Pós-Graduação,Divorciado,107793,Blue,69,5,18,11,23197,35898,400
+397,1,70,M,1,Ensino Médio,Casado,106271,Silver,91,2,19,12,8396,19646,201
+398,1,51,F,5,Pós-Graduação,Casado,59019,Blue,32,5,26,6,16092,44007,231
+399,1,47,M,3,Ensino Médio,Viúvo,24270,Blue,116,3,30,6,23566,30239,175
+400,1,45,M,1,Graduação,Viúvo,120521,Platinum,79,4,25,0,38320,11468,390
+401,0,18,M,5,Graduação,Viúvo,48088,Platinum,110,2,40,5,33556,38662,18
+402,0,52,M,3,Graduação,Solteiro,85099,Platinum,6,4,9,0,8715,16668,353
+403,0,49,F,5,Ensino Médio,Solteiro,148885,Platinum,1,1,44,11,38618,35857,202
+404,1,56,M,4,Ensino Médio,Viúvo,36752,Blue,16,2,48,8,35129,15146,129
+405,1,63,M,3,Graduação,Solteiro,146732,Gold,26,1,11,3,40275,21397,369
+406,1,18,F,1,Graduação,Solteiro,106179,Platinum,43,2,29,8,32144,18133,313
+407,1,59,F,3,Graduação,Casado,39769,Silver,86,5,38,11,19111,6256,270
+408,0,21,F,0,Pós-Graduação,Divorciado,73205,Silver,31,1,50,4,21563,36162,238
+409,1,26,F,4,Pós-Graduação,Divorciado,119968,Silver,47,3,47,7,40880,30031,47
+410,0,61,M,2,Ensino Médio,Viúvo,85515,Silver,26,2,18,6,17305,2210,461
+411,0,18,F,0,Graduação,Casado,112182,Gold,51,2,49,2,40291,19563,27
+412,1,70,M,4,Graduação,Casado,114253,Gold,74,1,3,8,21301,5641,354
+413,1,59,M,3,Graduação,Divorciado,107162,Gold,30,2,21,3,30840,25491,118
+414,0,63,F,5,Pós-Graduação,Divorciado,27298,Platinum,114,5,40,11,42324,14337,239
+415,0,29,F,4,Ensino Médio,Divorciado,73889,Blue,39,5,23,2,34013,39128,61
+416,1,26,M,5,Graduação,Casado,68511,Gold,35,5,9,11,28018,14247,425
+417,0,36,F,3,Graduação,Divorciado,28962,Gold,32,4,33,5,5761,39343,102
+418,0,18,F,5,Pós-Graduação,Viúvo,36319,Blue,35,2,22,1,16069,14954,157
+419,1,29,M,1,Ensino Médio,Solteiro,126368,Silver,91,4,10,12,39614,46839,351
+420,0,23,F,1,Ensino Médio,Viúvo,148263,Platinum,26,4,9,11,5827,4303,120
+421,0,54,M,5,Ensino Médio,Divorciado,129738,Blue,51,2,7,4,10605,9245,275
+422,1,61,F,4,Pós-Graduação,Casado,99651,Silver,42,2,9,0,5365,12485,205
+423,1,46,M,5,Graduação,Viúvo,82804,Platinum,83,5,44,7,9431,34327,178
+424,1,55,M,1,Ensino Médio,Solteiro,111469,Gold,9,2,46,8,37724,15442,358
+425,0,66,M,0,Graduação,Viúvo,61398,Blue,74,3,9,6,5199,42500,274
+426,1,37,F,1,Pós-Graduação,Divorciado,48201,Blue,11,3,36,8,31795,22904,88
+427,1,23,M,5,Pós-Graduação,Casado,43478,Gold,22,2,45,8,23294,38307,379
+428,0,45,M,4,Pós-Graduação,Casado,120458,Gold,46,3,19,4,49845,19054,97
+429,1,23,M,1,Ensino Médio,Divorciado,141130,Gold,120,5,36,0,16484,2640,146
+430,1,58,M,2,Graduação,Casado,140857,Gold,68,5,27,3,47206,34114,299
+431,1,24,F,4,Ensino Médio,Viúvo,59958,Gold,107,4,15,3,6071,33097,388
+432,0,56,M,4,Pós-Graduação,Divorciado,131668,Platinum,41,3,9,12,46558,30400,109
+433,1,24,M,3,Ensino Médio,Casado,27421,Blue,32,4,36,4,6338,44764,409
+434,0,44,M,5,Pós-Graduação,Casado,72357,Gold,21,3,17,5,15237,36503,347
+435,0,21,M,4,Graduação,Solteiro,117621,Silver,69,5,11,10,32355,11875,162
+436,0,65,F,4,Graduação,Viúvo,149725,Blue,8,3,41,9,39796,14340,385
+437,1,32,M,2,Pós-Graduação,Divorciado,52559,Blue,47,2,50,4,12653,36900,347
+438,0,36,M,2,Ensino Médio,Divorciado,114331,Gold,25,5,3,12,5311,26435,328
+439,0,29,M,0,Graduação,Solteiro,71215,Silver,15,2,39,0,45989,22364,275
+440,1,30,F,4,Ensino Médio,Viúvo,40632,Gold,49,5,20,6,39553,36985,137
+441,0,23,F,0,Pós-Graduação,Casado,45311,Platinum,64,1,11,5,13824,43831,122
+442,1,42,M,1,Ensino Médio,Viúvo,50308,Blue,80,2,29,8,11280,28567,143
+443,1,42,M,4,Pós-Graduação,Viúvo,27310,Platinum,75,5,0,8,47752,29173,157
+444,0,49,M,3,Pós-Graduação,Casado,119294,Gold,74,3,16,2,20046,43485,408
+445,1,61,F,1,Ensino Médio,Divorciado,146196,Gold,93,1,33,8,43389,7124,219
+446,0,26,M,1,Ensino Médio,Casado,46494,Gold,6,2,12,8,22584,17140,370
+447,0,62,M,3,Graduação,Solteiro,89391,Blue,4,5,13,7,26517,23634,111
+448,0,63,M,2,Ensino Médio,Casado,116268,Silver,54,5,48,7,17444,12712,356
+449,0,20,F,3,Pós-Graduação,Divorciado,23136,Gold,62,3,13,9,27730,3697,11
+450,0,67,F,2,Graduação,Divorciado,123339,Platinum,46,2,42,4,15283,19751,252
+451,1,51,M,0,Graduação,Divorciado,143391,Platinum,16,4,23,5,12542,26222,345
+452,1,25,M,2,Pós-Graduação,Divorciado,146268,Gold,83,2,1,12,18648,20522,264
+453,0,54,F,4,Ensino Médio,Casado,99830,Blue,92,3,22,12,49638,40433,155
+454,0,33,F,5,Graduação,Viúvo,96141,Blue,38,2,16,10,43633,23836,39
+455,0,22,F,4,Ensino Médio,Casado,119428,Gold,117,3,26,0,17663,1856,205
+456,0,26,F,5,Ensino Médio,Solteiro,84261,Platinum,102,4,15,11,11911,22829,61
+457,1,27,F,3,Ensino Médio,Solteiro,142123,Blue,61,5,2,8,46950,10191,214
+458,0,64,F,2,Pós-Graduação,Casado,88605,Silver,26,3,2,9,41412,22334,342
+459,0,61,F,0,Pós-Graduação,Casado,72065,Platinum,89,3,6,12,44948,20026,357
+460,1,41,M,2,Ensino Médio,Casado,55091,Gold,74,5,45,7,41363,30492,24
+461,0,33,F,0,Pós-Graduação,Solteiro,89334,Platinum,101,2,21,0,23605,47299,414
+462,1,47,F,3,Ensino Médio,Viúvo,127132,Platinum,30,4,14,8,29529,42901,126
+463,1,64,F,3,Ensino Médio,Viúvo,91902,Blue,96,3,1,10,9311,39578,179
+464,1,36,F,5,Pós-Graduação,Viúvo,93523,Silver,5,1,23,10,22227,45756,131
+465,0,26,F,3,Pós-Graduação,Casado,52562,Silver,9,4,35,7,36922,35284,357
+466,1,27,M,5,Graduação,Casado,37868,Platinum,116,2,12,11,36530,20098,408
+467,0,34,M,5,Pós-Graduação,Casado,65987,Gold,105,1,40,7,35186,21672,100
+468,1,66,F,4,Ensino Médio,Casado,95001,Blue,45,3,10,11,47108,3092,443
+469,0,37,M,1,Ensino Médio,Solteiro,120274,Gold,98,1,25,2,17663,33939,153
+470,1,43,F,4,Graduação,Casado,65193,Gold,33,2,30,4,19020,9807,217
+471,0,48,F,5,Ensino Médio,Divorciado,82250,Blue,83,5,8,8,31222,2443,272
+472,1,39,F,2,Graduação,Casado,112739,Platinum,70,4,37,3,41730,5484,152
+473,0,44,F,3,Graduação,Solteiro,84200,Silver,41,5,34,0,24286,18581,275
+474,0,34,M,2,Ensino Médio,Divorciado,61217,Blue,100,1,39,11,22870,31072,306
+475,1,66,F,5,Ensino Médio,Viúvo,44183,Platinum,91,2,19,7,45030,7168,487
+476,1,26,F,2,Pós-Graduação,Casado,65177,Platinum,11,5,16,1,37906,49665,384
+477,0,52,F,2,Ensino Médio,Casado,51103,Platinum,23,4,35,2,38733,21833,385
+478,0,48,M,4,Ensino Médio,Solteiro,135369,Gold,19,5,32,2,37136,42012,187
+479,1,30,F,1,Pós-Graduação,Viúvo,85112,Gold,110,5,7,0,22015,41040,452
+480,0,61,M,4,Ensino Médio,Casado,109904,Silver,2,2,9,11,29712,46905,365
+481,0,19,M,2,Graduação,Casado,138134,Gold,119,5,5,5,24507,6951,257
+482,1,68,F,2,Graduação,Divorciado,28640,Blue,113,2,2,3,10386,41158,227
+483,1,46,F,4,Pós-Graduação,Solteiro,140526,Gold,114,2,13,7,13465,34371,152
+484,0,67,M,1,Pós-Graduação,Viúvo,86207,Blue,76,2,39,3,37928,5455,197
+485,0,61,F,2,Graduação,Divorciado,52381,Gold,47,2,4,5,46958,12791,222
+486,0,54,F,1,Pós-Graduação,Viúvo,29174,Platinum,48,2,22,12,32464,22484,69
+487,1,48,M,2,Graduação,Solteiro,65338,Platinum,44,1,23,0,15813,28133,152
+488,0,69,F,1,Pós-Graduação,Divorciado,36580,Gold,19,3,47,8,42764,47720,271
+489,1,33,F,1,Pós-Graduação,Casado,144253,Blue,113,5,39,9,7439,22528,59
+490,0,62,M,5,Graduação,Casado,63936,Platinum,103,5,3,9,21050,45692,417
+491,1,43,M,0,Ensino Médio,Divorciado,89489,Gold,86,5,8,2,15743,35808,186
+492,0,68,M,5,Ensino Médio,Solteiro,45896,Gold,37,5,3,10,26949,21777,132
+493,0,18,F,1,Ensino Médio,Solteiro,138328,Platinum,32,2,31,1,33565,46021,80
+494,1,59,F,2,Graduação,Casado,39782,Silver,77,1,1,4,15116,28683,379
+495,1,47,M,5,Graduação,Solteiro,45165,Silver,47,4,42,7,23566,17426,87
+496,0,24,M,5,Pós-Graduação,Divorciado,131103,Platinum,111,2,26,2,19950,6586,61
+497,0,22,F,4,Pós-Graduação,Casado,80151,Silver,28,5,8,2,26223,26079,33
+498,1,56,F,2,Ensino Médio,Casado,95589,Blue,71,3,45,6,29342,48234,114
+499,0,68,M,2,Ensino Médio,Divorciado,129012,Platinum,35,3,1,4,6967,29843,271
+500,0,18,F,0,Graduação,Viúvo,78592,Blue,49,5,29,8,49923,27574,55
+501,0,32,F,3,Graduação,Divorciado,125117,Blue,54,2,22,3,25957,5608,363
+502,1,51,M,0,Ensino Médio,Divorciado,39045,Platinum,3,5,39,11,14392,40252,137
+503,1,53,F,0,Ensino Médio,Viúvo,67202,Gold,11,1,21,6,39581,47556,334
+504,1,33,F,5,Graduação,Casado,74778,Platinum,53,4,29,8,19634,22166,341
+505,0,44,F,1,Graduação,Divorciado,58272,Gold,1,4,40,3,11093,47452,79
+506,1,61,F,3,Graduação,Viúvo,136250,Platinum,49,3,11,3,27866,11548,417
+507,0,46,M,0,Ensino Médio,Casado,148171,Gold,90,4,25,2,28699,20779,214
+508,1,23,M,2,Graduação,Divorciado,65661,Blue,10,2,12,9,19977,29062,418
+509,0,43,M,3,Graduação,Casado,44436,Blue,56,3,45,8,44759,10327,335
+510,1,54,M,3,Pós-Graduação,Viúvo,129746,Blue,49,4,6,3,47633,38998,379
+511,1,57,F,3,Ensino Médio,Solteiro,26261,Blue,72,5,3,4,5623,49548,325
+512,0,25,F,4,Ensino Médio,Viúvo,50700,Blue,82,2,34,5,13911,34896,236
+513,1,37,M,2,Graduação,Viúvo,41138,Gold,9,4,4,12,24051,27140,139
+514,0,68,F,3,Pós-Graduação,Solteiro,66492,Blue,41,4,8,7,33181,37855,446
+515,0,59,F,3,Ensino Médio,Divorciado,79239,Platinum,75,1,49,9,36230,11088,158
+516,1,49,M,3,Graduação,Casado,109680,Platinum,86,1,36,8,27913,42616,167
+517,0,19,M,3,Pós-Graduação,Solteiro,24365,Silver,36,3,11,6,30380,22476,459
+518,0,48,M,4,Pós-Graduação,Viúvo,137354,Silver,97,3,20,6,6934,18876,107
+519,0,45,M,0,Ensino Médio,Divorciado,112539,Blue,63,4,47,0,32667,48673,397
+520,0,26,M,4,Pós-Graduação,Viúvo,23931,Gold,105,4,16,11,5681,41484,462
+521,1,62,M,0,Graduação,Divorciado,81407,Gold,66,3,11,10,13582,16403,132
+522,1,25,F,3,Graduação,Divorciado,148840,Platinum,3,5,15,2,21015,47344,303
+523,0,66,F,4,Pós-Graduação,Casado,20450,Platinum,88,1,39,6,11135,39170,256
+524,0,48,F,5,Graduação,Casado,147460,Silver,66,2,19,10,27958,6264,188
+525,1,27,M,5,Ensino Médio,Solteiro,94845,Platinum,91,3,39,9,16002,38888,286
+526,0,40,M,5,Pós-Graduação,Solteiro,110275,Gold,103,1,3,8,28538,46469,493
+527,0,58,F,3,Ensino Médio,Divorciado,144108,Silver,31,4,9,1,28558,40997,302
+528,0,20,M,5,Graduação,Solteiro,137908,Gold,83,3,50,0,39420,48786,493
+529,0,66,M,4,Pós-Graduação,Viúvo,108652,Blue,72,5,3,2,36557,24630,353
+530,0,47,M,5,Ensino Médio,Viúvo,80278,Blue,70,5,32,8,41878,43512,404
+531,0,18,F,4,Graduação,Viúvo,135836,Platinum,9,4,30,6,30089,40273,250
+532,1,30,M,2,Pós-Graduação,Casado,85877,Blue,76,1,43,6,33841,21701,260
+533,1,65,M,3,Pós-Graduação,Divorciado,46772,Gold,14,3,9,4,25942,29934,396
+534,0,69,M,0,Graduação,Solteiro,100478,Blue,42,4,24,5,9268,47576,150
+535,1,38,M,0,Graduação,Divorciado,142817,Gold,64,3,45,2,8922,14162,467
+536,1,33,F,5,Ensino Médio,Divorciado,77620,Gold,34,3,10,10,38563,26808,39
+537,0,62,M,0,Ensino Médio,Solteiro,137798,Platinum,51,3,3,12,6000,29711,78
+538,0,54,M,0,Ensino Médio,Divorciado,89810,Platinum,103,2,19,2,19491,6743,436
+539,0,35,M,5,Graduação,Casado,73341,Gold,20,4,21,10,32910,6152,460
+540,1,53,M,5,Pós-Graduação,Casado,82812,Gold,75,3,35,11,24711,10650,417
+541,1,65,M,5,Pós-Graduação,Casado,116237,Platinum,50,2,49,2,18251,22933,152
+542,0,30,F,0,Ensino Médio,Solteiro,89133,Silver,22,5,49,11,15065,12013,161
+543,1,59,M,5,Pós-Graduação,Divorciado,39401,Gold,88,5,18,3,49005,13152,485
+544,1,29,F,3,Graduação,Viúvo,66928,Platinum,46,3,15,11,41060,20733,114
+545,1,66,M,1,Graduação,Divorciado,142784,Blue,75,4,33,12,19388,41710,484
+546,0,51,M,4,Graduação,Solteiro,137922,Gold,90,1,45,11,38145,38455,188
+547,0,43,F,5,Graduação,Casado,27149,Platinum,56,2,11,1,41636,8700,63
+548,1,47,F,3,Ensino Médio,Viúvo,76017,Gold,22,3,24,10,10250,44117,172
+549,1,38,M,4,Graduação,Divorciado,45684,Platinum,8,1,2,9,44493,8985,292
+550,0,66,M,3,Pós-Graduação,Casado,61702,Silver,55,1,26,11,44377,1581,419
+551,1,24,F,4,Graduação,Solteiro,43089,Platinum,75,3,9,7,27451,32424,106
+552,0,61,M,4,Pós-Graduação,Solteiro,106320,Platinum,18,3,1,1,48780,17673,269
+553,1,26,F,1,Graduação,Solteiro,98494,Platinum,50,1,1,2,30953,36327,372
+554,0,25,M,4,Ensino Médio,Divorciado,80225,Platinum,89,2,28,3,15482,11791,214
+555,1,51,M,1,Ensino Médio,Viúvo,91305,Silver,99,2,45,5,35708,22330,97
+556,0,44,M,5,Graduação,Divorciado,86855,Platinum,8,2,28,5,32641,3116,277
+557,1,29,M,4,Ensino Médio,Divorciado,58798,Platinum,82,5,42,12,17453,16146,239
+558,1,57,M,5,Ensino Médio,Solteiro,37087,Silver,86,1,28,10,27486,47331,487
+559,1,64,F,2,Graduação,Solteiro,147787,Blue,82,5,23,8,34788,49524,104
+560,0,21,M,4,Ensino Médio,Divorciado,91606,Platinum,96,1,35,2,28466,28824,407
+561,1,51,F,3,Pós-Graduação,Solteiro,95088,Blue,106,4,48,11,42556,34962,321
+562,0,57,F,3,Pós-Graduação,Viúvo,111202,Blue,12,4,21,0,11725,4968,59
+563,1,57,F,2,Graduação,Viúvo,54280,Blue,2,5,35,5,13114,40514,260
+564,1,53,M,2,Graduação,Viúvo,54374,Blue,18,1,24,12,30435,38986,394
+565,0,70,M,3,Ensino Médio,Viúvo,24769,Blue,38,2,48,5,37819,20732,119
+566,0,45,M,5,Pós-Graduação,Solteiro,115605,Gold,115,4,3,1,47003,43595,484
+567,1,35,F,3,Graduação,Divorciado,72499,Silver,84,3,10,2,32404,28284,226
+568,1,67,F,5,Ensino Médio,Viúvo,105690,Silver,13,5,33,7,22613,46251,126
+569,0,27,F,2,Pós-Graduação,Viúvo,119777,Platinum,69,5,27,0,11015,41690,484
+570,1,31,M,1,Ensino Médio,Divorciado,149012,Gold,6,5,25,1,48839,38940,189
+571,1,26,F,4,Ensino Médio,Viúvo,22804,Gold,93,2,19,3,37774,41828,150
+572,0,34,F,3,Graduação,Divorciado,21826,Platinum,68,2,2,0,17952,43284,464
+573,0,58,M,4,Graduação,Solteiro,40245,Gold,33,3,4,5,41147,37201,87
+574,1,20,M,0,Ensino Médio,Viúvo,121374,Platinum,75,1,4,11,13019,19293,15
+575,0,61,M,3,Ensino Médio,Solteiro,54033,Platinum,59,1,37,9,24604,23730,32
+576,1,28,F,2,Ensino Médio,Casado,56710,Blue,92,1,45,1,48589,36251,86
+577,1,32,F,2,Pós-Graduação,Divorciado,149388,Blue,99,5,36,12,38914,22429,160
+578,1,60,M,2,Pós-Graduação,Casado,78713,Gold,69,3,47,7,30220,9040,255
+579,0,45,F,0,Ensino Médio,Viúvo,82093,Platinum,108,1,32,5,15571,4758,490
+580,0,27,M,2,Graduação,Viúvo,111312,Silver,60,2,49,12,39743,16396,18
+581,1,40,M,0,Graduação,Casado,127865,Platinum,13,2,40,11,25815,13442,122
+582,1,35,F,3,Pós-Graduação,Divorciado,35050,Platinum,11,4,27,10,8952,4185,318
+583,0,32,F,1,Graduação,Viúvo,89373,Silver,66,2,30,9,49620,36595,124
+584,1,67,M,5,Pós-Graduação,Viúvo,40304,Blue,79,5,3,4,20685,45899,143
+585,1,46,M,4,Pós-Graduação,Viúvo,79364,Gold,58,2,27,2,34476,18809,418
+586,1,70,M,1,Graduação,Divorciado,129294,Silver,79,5,13,3,5443,8543,18
+587,0,19,M,2,Ensino Médio,Viúvo,20912,Gold,88,3,4,12,19351,39964,326
+588,1,54,M,5,Pós-Graduação,Divorciado,35684,Silver,30,5,6,1,28321,28616,130
+589,1,50,F,1,Pós-Graduação,Solteiro,78403,Gold,4,4,41,4,48260,6997,426
+590,0,56,F,1,Ensino Médio,Solteiro,58343,Gold,48,5,11,11,37091,22539,33
+591,1,46,F,0,Ensino Médio,Solteiro,65590,Platinum,46,3,24,8,13913,35379,39
+592,1,40,M,3,Graduação,Solteiro,105184,Platinum,63,2,50,0,43441,48273,10
+593,0,58,M,3,Graduação,Solteiro,107329,Blue,103,1,19,9,20933,37325,93
+594,1,25,M,0,Pós-Graduação,Casado,88930,Silver,66,1,50,1,20301,19132,169
+595,0,61,M,4,Ensino Médio,Viúvo,60065,Platinum,83,2,7,9,14419,1827,116
+596,1,47,M,0,Pós-Graduação,Casado,105308,Gold,28,3,16,2,24493,12278,396
+597,0,33,F,5,Pós-Graduação,Casado,57939,Platinum,76,1,17,7,43479,11118,119
+598,1,41,F,1,Graduação,Solteiro,78640,Blue,17,1,25,4,47760,18168,19
+599,0,23,M,2,Ensino Médio,Viúvo,26924,Silver,35,2,45,2,13868,20821,208
+600,0,20,M,2,Ensino Médio,Casado,94181,Blue,49,3,17,8,33192,15129,101
+601,0,53,F,5,Ensino Médio,Casado,108274,Gold,68,5,27,1,36813,11713,275
+602,0,65,M,3,Ensino Médio,Divorciado,29758,Blue,115,2,44,10,14860,44914,243
+603,1,55,M,2,Pós-Graduação,Solteiro,54701,Platinum,71,5,43,11,36726,35599,118
+604,0,37,F,5,Pós-Graduação,Solteiro,114483,Platinum,87,2,26,6,25010,33600,148
+605,0,69,F,0,Pós-Graduação,Solteiro,104514,Gold,119,4,15,0,45653,30626,367
+606,0,55,M,2,Graduação,Solteiro,46191,Platinum,52,1,1,1,12289,14623,472
+607,0,38,F,2,Ensino Médio,Casado,29655,Gold,30,5,17,8,17132,37274,411
+608,1,28,M,2,Ensino Médio,Casado,98098,Blue,87,3,41,6,16987,32214,148
+609,1,20,M,1,Graduação,Divorciado,54170,Blue,58,3,10,4,26068,40257,490
+610,0,57,M,2,Pós-Graduação,Casado,67520,Gold,73,3,13,10,43626,11568,193
+611,0,21,F,3,Pós-Graduação,Casado,100522,Blue,76,3,23,5,34223,41154,272
+612,0,19,F,5,Ensino Médio,Solteiro,54629,Gold,62,5,11,3,32656,29602,192
+613,1,61,F,1,Ensino Médio,Divorciado,50475,Platinum,34,4,20,5,10829,18023,285
+614,0,31,M,0,Ensino Médio,Divorciado,31100,Silver,60,2,12,9,29000,31386,107
+615,0,35,M,5,Ensino Médio,Casado,132526,Gold,119,2,26,10,46554,32872,85
+616,1,68,M,2,Pós-Graduação,Divorciado,65605,Silver,20,4,29,0,12947,45646,177
+617,0,31,F,2,Pós-Graduação,Viúvo,141198,Platinum,26,4,37,3,40328,15313,150
+618,0,38,F,2,Graduação,Divorciado,27382,Platinum,70,4,25,7,19505,13625,456
+619,0,42,F,5,Graduação,Divorciado,59378,Silver,120,2,17,10,41565,37166,323
+620,0,21,F,5,Graduação,Divorciado,43663,Gold,9,4,19,5,45001,42725,407
+621,0,41,F,1,Pós-Graduação,Solteiro,24564,Blue,112,4,20,0,35870,40260,206
+622,1,65,M,1,Graduação,Casado,69906,Blue,103,1,31,0,28987,11211,435
+623,0,54,F,3,Graduação,Viúvo,139460,Platinum,106,1,30,6,17730,27545,312
+624,0,40,F,2,Pós-Graduação,Viúvo,29168,Gold,87,4,22,7,40976,8271,157
+625,0,31,F,4,Graduação,Casado,93322,Gold,80,1,26,1,25323,4577,95
+626,0,55,F,1,Ensino Médio,Casado,149544,Silver,1,1,6,8,36667,41929,108
+627,0,22,F,5,Graduação,Divorciado,102310,Platinum,37,2,8,8,25008,36709,374
+628,1,55,F,2,Graduação,Viúvo,55337,Silver,109,1,8,8,24955,36708,195
+629,0,36,F,2,Ensino Médio,Divorciado,109429,Blue,74,3,30,2,25056,13831,487
+630,0,65,M,5,Ensino Médio,Casado,69670,Silver,40,2,26,0,10544,7020,353
+631,1,67,M,1,Graduação,Divorciado,72472,Platinum,77,4,21,0,44386,17720,333
+632,0,42,F,2,Graduação,Solteiro,82898,Blue,8,2,32,12,25898,34028,440
+633,1,59,F,2,Pós-Graduação,Divorciado,68644,Silver,109,3,38,8,34797,4937,314
+634,1,56,M,2,Ensino Médio,Solteiro,55046,Silver,50,1,44,11,7056,49873,138
+635,0,47,M,2,Ensino Médio,Casado,52637,Platinum,116,4,39,5,38160,49130,85
+636,0,25,F,0,Ensino Médio,Solteiro,95765,Gold,33,1,14,4,35853,35857,257
+637,0,34,F,1,Pós-Graduação,Viúvo,97249,Platinum,33,2,3,1,37001,18686,205
+638,1,51,M,3,Graduação,Solteiro,73616,Blue,71,2,11,3,21881,49629,447
+639,0,68,M,3,Ensino Médio,Viúvo,29532,Silver,13,4,35,11,42475,39434,251
+640,0,60,M,2,Graduação,Divorciado,53255,Gold,100,1,3,11,38799,29776,143
+641,0,30,F,2,Graduação,Casado,122323,Silver,32,5,0,11,20412,32047,435
+642,0,59,M,3,Graduação,Solteiro,110896,Platinum,3,1,14,8,49851,16860,325
+643,0,63,F,5,Graduação,Casado,142832,Gold,93,4,25,6,36789,28705,194
+644,0,65,F,3,Graduação,Divorciado,121578,Blue,36,5,38,8,27814,12775,278
+645,0,55,M,5,Ensino Médio,Solteiro,48529,Platinum,52,5,36,3,32880,45979,224
+646,0,59,M,5,Pós-Graduação,Solteiro,28667,Gold,22,2,30,9,5900,35595,430
+647,0,34,F,2,Pós-Graduação,Viúvo,148068,Silver,113,4,13,11,31973,16262,136
+648,1,49,M,5,Ensino Médio,Solteiro,93336,Silver,16,3,27,10,47943,29693,410
+649,0,29,M,2,Pós-Graduação,Solteiro,40383,Silver,95,1,7,0,38883,10700,270
+650,1,37,F,0,Pós-Graduação,Viúvo,147936,Silver,56,1,31,3,25352,44533,157
+651,0,40,M,3,Graduação,Viúvo,35993,Gold,105,1,4,0,45507,6732,164
+652,1,61,M,0,Ensino Médio,Solteiro,119153,Platinum,54,5,10,9,43352,3343,348
+653,0,34,F,3,Pós-Graduação,Divorciado,42646,Gold,38,5,44,3,24072,5721,32
+654,0,54,M,1,Pós-Graduação,Viúvo,57534,Platinum,33,2,5,12,41776,20841,410
+655,1,61,M,3,Graduação,Divorciado,119381,Gold,63,1,9,8,30234,34570,381
+656,1,41,F,2,Graduação,Solteiro,56931,Blue,113,5,6,4,10866,37306,53
+657,0,47,F,5,Graduação,Solteiro,120092,Silver,58,3,12,8,8042,1971,218
+658,0,45,M,1,Graduação,Casado,80726,Gold,84,4,43,0,21553,47387,230
+659,0,70,F,5,Ensino Médio,Divorciado,45750,Gold,99,5,43,11,26090,1731,401
+660,0,47,M,2,Pós-Graduação,Casado,108569,Gold,6,2,48,3,35234,35931,151
+661,0,35,F,0,Ensino Médio,Viúvo,107051,Blue,81,4,14,4,33719,35618,284
+662,0,33,F,3,Ensino Médio,Divorciado,118870,Platinum,32,4,15,8,30718,15541,375
+663,0,44,F,4,Pós-Graduação,Viúvo,93125,Gold,68,5,18,10,39979,29979,440
+664,1,52,M,2,Ensino Médio,Casado,67088,Platinum,32,4,22,6,36275,38433,184
+665,1,38,M,4,Pós-Graduação,Casado,65396,Platinum,29,1,29,5,27162,17623,350
+666,1,24,F,5,Graduação,Divorciado,44769,Blue,57,2,16,9,31239,36440,422
+667,0,52,F,1,Ensino Médio,Viúvo,110315,Blue,38,1,39,11,12374,2320,440
+668,0,24,M,1,Ensino Médio,Solteiro,108747,Platinum,24,2,43,1,13400,2519,417
+669,1,34,F,0,Pós-Graduação,Viúvo,121479,Blue,105,5,2,2,20055,29116,155
+670,1,49,F,0,Pós-Graduação,Viúvo,95993,Platinum,49,1,42,6,19770,35170,388
+671,0,60,F,5,Graduação,Divorciado,138268,Platinum,88,1,16,8,29102,31955,433
+672,0,45,M,0,Pós-Graduação,Solteiro,149282,Silver,80,3,0,11,42098,27427,431
+673,0,22,M,4,Ensino Médio,Casado,118488,Gold,59,2,18,9,21241,27549,426
+674,1,25,F,3,Pós-Graduação,Solteiro,75489,Blue,19,3,30,3,18868,37725,487
+675,0,49,F,3,Graduação,Viúvo,113754,Blue,94,2,21,11,43165,41581,278
+676,1,66,F,2,Graduação,Casado,89260,Silver,8,5,29,9,5482,37324,115
+677,0,31,M,2,Graduação,Solteiro,59092,Platinum,112,5,43,12,46487,38823,265
+678,0,26,M,3,Ensino Médio,Solteiro,119963,Gold,51,1,39,4,30152,23235,232
+679,1,57,F,3,Graduação,Solteiro,122448,Platinum,32,4,14,0,44459,30252,220
+680,1,55,F,2,Graduação,Divorciado,23971,Platinum,97,1,8,4,10881,30303,209
+681,1,34,F,3,Graduação,Viúvo,31121,Platinum,27,1,32,2,32079,43249,495
+682,1,30,F,1,Graduação,Divorciado,25690,Platinum,82,4,32,2,24503,34329,250
+683,1,32,F,3,Graduação,Solteiro,143688,Platinum,2,2,5,10,31880,9701,242
+684,0,23,F,2,Pós-Graduação,Viúvo,131810,Platinum,77,1,41,3,17538,17888,482
+685,1,48,M,4,Ensino Médio,Viúvo,141681,Blue,61,5,4,6,26973,2934,438
+686,0,59,F,3,Ensino Médio,Solteiro,77174,Platinum,57,1,16,4,9522,12759,108
+687,1,40,F,4,Ensino Médio,Divorciado,130358,Gold,46,4,11,0,10582,2643,400
+688,1,20,F,2,Pós-Graduação,Viúvo,44746,Platinum,33,3,1,6,40741,3846,36
+689,0,53,M,1,Pós-Graduação,Viúvo,54806,Gold,65,3,0,6,11380,12672,226
+690,0,69,M,2,Graduação,Casado,107540,Silver,102,4,24,10,44208,31823,180
+691,0,61,F,5,Ensino Médio,Divorciado,80845,Silver,42,4,18,4,49393,13421,438
+692,1,68,M,2,Graduação,Viúvo,67239,Silver,115,5,47,2,39947,22082,348
+693,1,63,M,2,Graduação,Divorciado,86103,Gold,112,4,5,8,45809,27445,220
+694,0,28,M,5,Graduação,Solteiro,134425,Blue,17,2,15,4,37590,19843,331
+695,0,28,F,4,Graduação,Divorciado,137799,Silver,79,3,11,0,13924,46713,124
+696,0,36,M,1,Ensino Médio,Divorciado,111064,Blue,34,2,27,2,45910,2330,30
+697,1,68,M,4,Pós-Graduação,Casado,121372,Blue,28,2,25,0,6802,20331,99
+698,1,29,M,4,Graduação,Casado,62196,Silver,110,3,23,12,6205,44815,37
+699,0,61,M,1,Pós-Graduação,Solteiro,58225,Silver,46,4,38,12,31791,49350,243
+700,1,30,M,2,Graduação,Divorciado,115606,Blue,89,5,18,6,38506,11963,135
+701,1,31,F,5,Pós-Graduação,Viúvo,114648,Silver,40,5,15,8,44189,38518,417
+702,1,46,F,0,Pós-Graduação,Divorciado,36508,Silver,36,4,12,0,48811,4657,263
+703,0,37,M,2,Pós-Graduação,Solteiro,92637,Gold,87,4,26,9,24356,36818,150
+704,0,68,F,3,Ensino Médio,Casado,78551,Blue,2,2,3,5,11842,15770,159
+705,1,30,M,4,Graduação,Viúvo,117742,Platinum,3,1,49,2,9734,30540,153
+706,1,63,F,1,Pós-Graduação,Casado,64458,Gold,37,3,24,8,8736,47030,155
+707,1,20,M,5,Graduação,Divorciado,109178,Blue,14,5,48,10,49282,22572,359
+708,1,32,M,4,Ensino Médio,Divorciado,148515,Silver,50,2,4,12,22878,8813,308
+709,0,30,M,3,Ensino Médio,Solteiro,120155,Gold,93,4,25,9,16086,40590,495
+710,0,51,M,2,Graduação,Divorciado,81173,Silver,3,3,24,2,7249,32284,381
+711,0,42,F,0,Pós-Graduação,Casado,102940,Silver,70,3,32,12,20547,21115,140
+712,1,57,F,5,Pós-Graduação,Divorciado,32720,Gold,71,4,42,4,16581,23856,26
+713,1,47,M,3,Ensino Médio,Viúvo,50930,Platinum,118,1,27,10,15538,4088,457
+714,1,33,M,4,Graduação,Casado,112078,Gold,113,3,37,3,22702,34180,92
+715,0,27,M,4,Pós-Graduação,Solteiro,88082,Platinum,80,4,6,7,37251,30206,91
+716,1,57,M,5,Ensino Médio,Casado,121486,Silver,29,5,47,8,35708,18742,53
+717,1,41,F,2,Pós-Graduação,Viúvo,48669,Blue,61,1,31,6,30673,19173,353
+718,0,57,M,0,Graduação,Casado,113339,Gold,75,1,26,2,17542,3532,279
+719,0,50,M,0,Graduação,Casado,53981,Blue,26,5,18,6,49268,30075,175
+720,0,45,F,1,Graduação,Casado,117541,Platinum,25,3,47,2,30097,12508,410
+721,0,61,M,0,Ensino Médio,Casado,37679,Blue,25,5,24,12,22922,36596,350
+722,1,22,F,5,Pós-Graduação,Casado,132861,Platinum,75,5,41,11,23994,4148,432
+723,0,23,F,0,Pós-Graduação,Viúvo,41346,Gold,28,2,0,2,38839,32186,429
+724,1,25,F,3,Graduação,Viúvo,106251,Blue,58,2,28,4,10007,49408,384
+725,1,28,F,1,Ensino Médio,Divorciado,58651,Platinum,86,4,13,6,15560,27866,91
+726,1,21,M,4,Graduação,Divorciado,84568,Gold,2,2,27,2,18131,36122,406
+727,0,27,F,4,Graduação,Divorciado,75338,Gold,89,5,38,9,40991,17470,219
+728,0,53,F,3,Pós-Graduação,Divorciado,102657,Platinum,69,4,16,2,12932,5864,356
+729,1,58,F,3,Graduação,Solteiro,92857,Blue,61,2,36,10,49594,25437,311
+730,0,24,M,5,Ensino Médio,Casado,28116,Platinum,14,2,22,11,10376,25070,208
+731,0,20,F,4,Ensino Médio,Divorciado,120492,Platinum,49,1,17,8,5326,1177,138
+732,1,44,F,5,Ensino Médio,Viúvo,89787,Gold,90,1,39,0,28847,32339,399
+733,0,36,F,2,Graduação,Casado,36355,Blue,70,3,7,5,40004,46099,444
+734,0,67,M,3,Ensino Médio,Solteiro,88254,Silver,59,4,6,9,28183,16573,94
+735,1,56,M,5,Ensino Médio,Divorciado,140782,Gold,99,1,42,12,25652,14714,111
+736,0,39,M,0,Pós-Graduação,Solteiro,113496,Silver,65,2,15,2,5639,27583,480
+737,1,29,F,4,Ensino Médio,Viúvo,106431,Platinum,33,3,14,2,27288,15735,273
+738,1,54,M,1,Pós-Graduação,Solteiro,79528,Blue,99,1,45,1,46830,44030,86
+739,0,19,M,3,Pós-Graduação,Casado,21926,Platinum,60,5,25,1,36246,40891,288
+740,0,38,M,4,Ensino Médio,Divorciado,128696,Blue,113,1,39,2,28826,22480,250
+741,0,26,F,2,Ensino Médio,Solteiro,130158,Gold,22,4,34,1,9365,38628,253
+742,0,24,F,5,Graduação,Viúvo,128292,Blue,22,2,42,9,39640,14143,340
+743,1,66,F,0,Pós-Graduação,Casado,107301,Silver,110,1,43,8,39884,48020,485
+744,1,36,M,0,Ensino Médio,Divorciado,50816,Platinum,54,2,30,12,5716,14492,308
+745,1,33,F,3,Ensino Médio,Divorciado,53095,Platinum,9,4,30,1,27791,17223,38
+746,0,68,M,5,Graduação,Solteiro,60567,Platinum,95,5,38,6,23100,3579,218
+747,1,58,F,0,Ensino Médio,Viúvo,57032,Gold,15,1,12,12,6383,32764,216
+748,0,43,F,2,Pós-Graduação,Viúvo,89740,Platinum,120,5,42,6,21057,26913,476
+749,0,25,F,3,Pós-Graduação,Divorciado,65793,Blue,81,4,7,0,25821,45749,111
+750,0,58,F,1,Ensino Médio,Viúvo,131254,Gold,67,2,11,1,28293,19545,71
+751,0,45,F,4,Graduação,Divorciado,81551,Platinum,13,2,24,2,8599,3452,131
+752,1,54,M,3,Pós-Graduação,Casado,51423,Silver,105,4,46,10,11789,11751,82
+753,1,58,F,2,Ensino Médio,Viúvo,106377,Platinum,72,4,2,3,49761,31489,246
+754,0,35,M,4,Graduação,Viúvo,77393,Blue,72,1,4,8,18241,9193,244
+755,0,22,F,4,Graduação,Solteiro,91141,Silver,72,3,25,8,20764,2790,253
+756,1,62,F,2,Graduação,Casado,94711,Platinum,22,3,30,5,39388,28187,44
+757,1,61,F,5,Pós-Graduação,Solteiro,119832,Platinum,56,1,7,3,24247,6590,386
+758,1,27,F,0,Ensino Médio,Solteiro,71678,Platinum,42,1,9,10,33543,29948,92
+759,0,29,M,5,Ensino Médio,Casado,23181,Gold,91,5,15,8,10112,33549,413
+760,0,51,F,3,Ensino Médio,Viúvo,85087,Silver,81,3,50,11,31207,33911,275
+761,1,62,F,3,Pós-Graduação,Casado,46143,Blue,37,3,10,3,32051,17791,164
+762,0,52,F,1,Pós-Graduação,Viúvo,129010,Blue,84,2,11,8,33620,34290,165
+763,1,59,M,4,Ensino Médio,Divorciado,29452,Gold,17,5,31,12,44507,5871,404
+764,1,38,M,5,Graduação,Solteiro,130503,Gold,86,2,27,0,24936,42991,90
+765,0,31,M,0,Pós-Graduação,Solteiro,130634,Platinum,72,3,23,2,48928,39522,236
+766,0,67,F,5,Graduação,Divorciado,94588,Platinum,18,5,25,6,23156,5248,457
+767,1,50,M,1,Graduação,Casado,149770,Blue,92,5,27,9,40822,17562,464
+768,1,56,M,2,Graduação,Viúvo,37276,Blue,12,1,24,4,5648,21912,160
+769,1,37,F,4,Ensino Médio,Divorciado,69196,Blue,28,5,20,2,21854,6194,159
+770,0,18,F,4,Pós-Graduação,Solteiro,133164,Silver,112,1,8,5,13765,48870,77
+771,0,38,F,2,Pós-Graduação,Solteiro,44742,Gold,77,1,36,9,8816,27662,439
+772,0,55,M,2,Graduação,Divorciado,40091,Gold,40,1,36,6,33629,4406,296
+773,1,47,M,3,Pós-Graduação,Casado,29975,Silver,36,3,32,1,44723,17252,482
+774,1,30,F,3,Pós-Graduação,Viúvo,148478,Platinum,50,1,40,10,48339,23140,92
+775,0,70,F,0,Ensino Médio,Casado,132240,Silver,106,4,14,9,7357,9999,52
+776,1,48,M,5,Graduação,Divorciado,36882,Silver,70,3,42,2,15026,48952,60
+777,1,34,F,5,Ensino Médio,Divorciado,66741,Silver,90,5,11,1,33894,40529,42
+778,0,54,F,2,Pós-Graduação,Casado,24314,Platinum,53,4,13,3,43107,2002,338
+779,0,68,M,2,Pós-Graduação,Divorciado,80903,Silver,85,5,24,11,49425,15078,447
+780,1,27,F,0,Graduação,Solteiro,149593,Platinum,66,2,15,8,44173,8254,103
+781,0,24,M,1,Pós-Graduação,Divorciado,30619,Blue,96,4,12,0,41987,23694,413
+782,1,33,M,3,Graduação,Divorciado,38010,Blue,51,5,13,8,12246,30804,239
+783,0,29,M,4,Ensino Médio,Casado,57252,Gold,95,3,50,11,14160,3190,371
+784,1,67,F,0,Pós-Graduação,Viúvo,101671,Blue,16,1,25,8,28597,39772,105
+785,0,56,F,0,Pós-Graduação,Divorciado,72415,Silver,28,5,48,3,38385,23975,290
+786,0,28,M,4,Pós-Graduação,Viúvo,79708,Blue,14,1,12,7,9995,28893,50
+787,1,30,F,2,Ensino Médio,Casado,89766,Silver,69,5,16,5,47073,34060,81
+788,1,47,F,4,Pós-Graduação,Solteiro,80289,Platinum,26,3,48,1,25837,44445,310
+789,1,18,F,5,Graduação,Divorciado,54404,Blue,26,4,20,11,40917,32991,303
+790,0,57,M,1,Ensino Médio,Viúvo,26888,Gold,54,3,38,7,19831,42535,352
+791,0,59,F,5,Pós-Graduação,Viúvo,42292,Platinum,21,3,27,10,5816,46967,333
+792,0,62,F,0,Ensino Médio,Solteiro,46320,Platinum,8,2,40,12,44272,44299,76
+793,1,66,M,4,Ensino Médio,Solteiro,138891,Gold,88,2,33,5,27917,16328,26
+794,1,48,M,1,Pós-Graduação,Solteiro,82285,Silver,39,3,29,1,5082,28535,328
+795,0,23,M,0,Pós-Graduação,Divorciado,48849,Gold,82,5,43,6,21159,15407,240
+796,1,26,F,5,Ensino Médio,Casado,98633,Gold,94,3,0,3,47409,3352,492
+797,0,37,M,0,Ensino Médio,Casado,114688,Platinum,13,4,23,4,13520,7437,474
+798,0,68,M,2,Ensino Médio,Divorciado,131133,Blue,59,5,42,0,32143,31959,461
+799,1,45,F,1,Pós-Graduação,Divorciado,41943,Platinum,111,4,26,2,43880,29049,457
+800,0,48,M,4,Ensino Médio,Casado,103520,Gold,6,5,22,1,39986,22488,41
+801,0,20,F,5,Pós-Graduação,Casado,143847,Blue,94,1,8,11,43227,8031,293
+802,1,59,F,4,Graduação,Solteiro,40788,Silver,10,3,25,5,34578,20055,289
+803,1,43,F,1,Graduação,Viúvo,96102,Gold,35,5,34,8,20509,33654,356
+804,1,31,F,2,Graduação,Viúvo,120880,Silver,88,2,34,5,26312,26112,286
+805,0,22,M,3,Ensino Médio,Casado,88890,Gold,116,5,25,3,28104,11686,461
+806,1,27,F,2,Pós-Graduação,Solteiro,145729,Silver,64,2,44,6,11318,19796,292
+807,0,36,F,4,Graduação,Viúvo,131819,Gold,58,5,10,12,32563,35014,242
+808,1,38,F,2,Ensino Médio,Divorciado,128930,Blue,77,3,5,3,13903,16973,464
+809,1,66,M,1,Graduação,Casado,110619,Platinum,21,1,38,4,26822,43568,202
+810,0,45,F,1,Ensino Médio,Solteiro,124801,Gold,31,3,22,11,14458,25058,477
+811,0,56,M,1,Graduação,Viúvo,117365,Blue,22,5,21,0,8534,32850,199
+812,0,39,F,3,Graduação,Solteiro,66158,Blue,30,4,44,5,22472,1758,65
+813,0,26,M,3,Pós-Graduação,Viúvo,137412,Gold,56,4,13,2,6742,11087,124
+814,0,63,F,4,Ensino Médio,Viúvo,104941,Platinum,37,1,4,4,35135,20501,249
+815,0,56,M,3,Ensino Médio,Solteiro,124699,Platinum,115,5,28,10,37616,28325,70
+816,1,35,M,3,Pós-Graduação,Solteiro,63294,Silver,71,4,38,12,24870,34447,266
+817,1,30,M,1,Ensino Médio,Casado,130790,Gold,101,3,13,7,12099,29629,398
+818,1,45,F,3,Graduação,Viúvo,24907,Blue,34,5,21,11,9394,44999,162
+819,1,56,M,5,Graduação,Solteiro,125299,Blue,62,4,42,1,47520,4991,206
+820,1,63,M,2,Pós-Graduação,Viúvo,55073,Gold,25,2,0,0,13359,33880,152
+821,1,40,M,5,Ensino Médio,Viúvo,124536,Blue,78,1,25,7,20307,14751,309
+822,0,41,F,5,Ensino Médio,Viúvo,103741,Gold,60,1,50,2,17059,2955,132
+823,0,19,M,2,Pós-Graduação,Divorciado,114043,Silver,84,4,42,9,24730,46214,267
+824,0,54,M,5,Pós-Graduação,Viúvo,42720,Blue,66,5,36,2,38646,7538,170
+825,1,36,M,1,Pós-Graduação,Casado,77998,Silver,34,1,16,8,28091,12290,483
+826,1,64,M,1,Pós-Graduação,Viúvo,138552,Gold,110,3,37,0,15757,16480,459
+827,0,53,F,4,Graduação,Divorciado,103203,Gold,65,2,42,5,29424,31792,330
+828,0,54,M,3,Pós-Graduação,Solteiro,35436,Platinum,28,2,15,9,16937,32012,13
+829,1,58,F,1,Pós-Graduação,Casado,26550,Platinum,3,3,38,2,21651,23652,77
+830,0,61,F,2,Graduação,Casado,69063,Silver,37,5,36,7,20774,8607,386
+831,0,28,F,1,Graduação,Divorciado,26176,Silver,42,5,2,7,36407,38414,463
+832,1,26,F,4,Ensino Médio,Casado,112497,Silver,13,1,0,2,6254,22210,269
+833,1,58,F,3,Pós-Graduação,Viúvo,114482,Gold,72,1,15,3,6517,38273,498
+834,1,68,M,4,Ensino Médio,Divorciado,89489,Blue,5,2,10,1,14725,13539,431
+835,1,37,F,1,Ensino Médio,Divorciado,97834,Silver,72,2,10,7,21354,4137,129
+836,1,43,M,3,Pós-Graduação,Casado,137947,Platinum,26,2,43,2,12690,11673,247
+837,0,29,M,4,Graduação,Solteiro,75067,Gold,98,5,5,6,9841,48163,406
+838,0,29,M,5,Ensino Médio,Casado,130865,Platinum,63,1,27,0,42467,19524,32
+839,1,25,M,4,Pós-Graduação,Viúvo,121487,Blue,10,4,19,1,27941,39958,394
+840,1,32,F,2,Ensino Médio,Casado,122921,Blue,66,1,32,6,43651,1008,475
+841,0,53,M,1,Pós-Graduação,Divorciado,143651,Gold,72,5,42,12,30756,48009,335
+842,0,37,F,3,Graduação,Casado,69274,Silver,46,1,29,3,10295,26919,335
+843,0,43,F,3,Graduação,Casado,22973,Blue,4,4,32,7,43009,30024,14
+844,0,58,F,5,Pós-Graduação,Viúvo,137464,Platinum,119,2,34,3,21835,26301,106
+845,1,51,M,0,Pós-Graduação,Viúvo,98914,Silver,70,4,18,5,20045,5488,181
+846,0,29,M,3,Ensino Médio,Casado,123771,Blue,68,2,19,2,40005,11478,66
+847,1,38,F,4,Graduação,Viúvo,85541,Platinum,99,2,44,2,30097,48477,252
+848,1,49,M,5,Ensino Médio,Casado,126410,Silver,37,5,4,9,10161,7737,447
+849,1,54,F,2,Pós-Graduação,Solteiro,84125,Gold,79,3,44,9,11116,31174,210
+850,0,24,F,3,Ensino Médio,Divorciado,117792,Blue,104,3,5,0,19402,32414,292
+851,0,50,F,5,Ensino Médio,Viúvo,47165,Silver,111,1,43,2,44469,1950,397
+852,0,21,F,2,Pós-Graduação,Casado,59233,Platinum,64,2,20,3,6825,9275,451
+853,1,70,F,3,Ensino Médio,Casado,115992,Blue,8,3,13,9,15599,40091,19
+854,1,32,M,5,Pós-Graduação,Solteiro,48709,Silver,43,2,36,11,34891,32652,171
+855,1,62,M,5,Pós-Graduação,Solteiro,101908,Platinum,120,1,13,12,15878,48629,442
+856,1,28,M,4,Pós-Graduação,Solteiro,43127,Silver,26,3,37,7,20403,32997,265
+857,0,67,M,3,Ensino Médio,Divorciado,33016,Gold,61,5,28,6,9576,36930,275
+858,0,19,M,3,Graduação,Solteiro,91231,Gold,93,4,42,3,6530,13871,480
+859,0,59,F,2,Pós-Graduação,Solteiro,37652,Blue,20,1,49,6,20302,44866,328
+860,1,42,M,1,Ensino Médio,Viúvo,111646,Gold,23,5,48,6,31906,28281,464
+861,1,56,F,1,Ensino Médio,Casado,48512,Platinum,13,4,25,12,34720,21748,451
+862,1,62,M,3,Ensino Médio,Viúvo,73538,Blue,25,2,27,8,19395,6189,420
+863,1,33,F,3,Pós-Graduação,Solteiro,73482,Silver,66,5,46,0,16822,30939,91
+864,0,33,F,3,Graduação,Divorciado,116269,Gold,83,1,34,8,49120,27734,337
+865,0,39,F,5,Ensino Médio,Divorciado,55954,Gold,90,2,5,7,18462,2262,337
+866,1,64,M,2,Pós-Graduação,Viúvo,62717,Silver,24,4,10,11,25471,8398,359
+867,0,40,M,1,Pós-Graduação,Casado,132421,Blue,101,3,44,8,10363,46459,488
+868,1,34,F,5,Pós-Graduação,Solteiro,98521,Blue,19,5,16,0,48555,18920,417
+869,0,43,F,4,Ensino Médio,Solteiro,146028,Gold,20,3,6,11,40287,13413,16
+870,0,27,F,5,Pós-Graduação,Solteiro,101994,Blue,88,3,17,3,14028,39273,405
+871,0,22,M,2,Ensino Médio,Solteiro,36830,Platinum,67,3,16,3,13352,22403,144
+872,0,60,M,4,Graduação,Casado,32729,Blue,47,1,4,3,44026,13121,246
+873,1,58,M,4,Graduação,Viúvo,43984,Blue,8,2,25,8,43805,21798,51
+874,0,47,F,0,Graduação,Casado,143648,Silver,92,5,9,10,32367,41126,29
+875,0,62,M,1,Pós-Graduação,Casado,90420,Blue,109,3,41,0,12625,41538,476
+876,0,65,F,1,Graduação,Solteiro,142502,Blue,106,5,43,3,22190,36384,452
+877,1,32,M,5,Pós-Graduação,Viúvo,112642,Blue,36,4,28,11,30317,28558,350
+878,0,21,F,0,Graduação,Casado,33624,Blue,62,3,39,7,26707,27974,391
+879,1,69,M,3,Graduação,Casado,133991,Blue,16,1,27,8,38307,7431,118
+880,0,39,F,5,Graduação,Casado,148363,Gold,70,4,3,9,16930,10027,353
+881,0,54,M,3,Ensino Médio,Solteiro,107160,Platinum,13,2,30,9,45072,3686,148
+882,1,59,F,4,Ensino Médio,Casado,56815,Blue,80,4,4,11,39722,27345,276
+883,0,34,M,2,Graduação,Casado,58153,Blue,83,3,19,1,19266,17684,65
+884,1,35,M,2,Ensino Médio,Solteiro,56844,Gold,80,3,33,2,18933,32758,196
+885,0,55,F,4,Ensino Médio,Divorciado,70629,Blue,52,4,7,4,9652,10731,446
+886,0,54,M,4,Ensino Médio,Divorciado,80979,Platinum,92,1,26,4,7572,9603,391
+887,0,55,F,2,Ensino Médio,Casado,89635,Silver,13,4,17,4,33990,32249,170
+888,1,27,M,5,Ensino Médio,Casado,37691,Blue,112,4,33,6,13712,48077,212
+889,1,65,M,1,Graduação,Solteiro,81524,Silver,117,1,33,4,43053,47449,380
+890,0,42,M,2,Ensino Médio,Solteiro,56209,Silver,11,4,12,5,12884,33312,142
+891,1,57,F,5,Pós-Graduação,Solteiro,66645,Gold,52,3,27,5,39786,5210,15
+892,1,30,F,4,Ensino Médio,Viúvo,75647,Platinum,86,4,23,11,37779,45075,276
+893,1,38,F,0,Graduação,Divorciado,148407,Blue,76,2,34,2,35892,45904,67
+894,0,56,M,0,Ensino Médio,Divorciado,95639,Platinum,79,1,11,8,31781,13497,369
+895,1,64,F,2,Graduação,Solteiro,123273,Platinum,24,2,1,12,23991,46378,354
+896,0,56,M,4,Pós-Graduação,Casado,32089,Platinum,96,2,33,8,19803,23276,32
+897,0,55,F,1,Ensino Médio,Casado,23770,Gold,40,3,10,7,28826,26999,13
+898,0,70,F,4,Pós-Graduação,Solteiro,110208,Blue,71,4,47,1,45959,37717,329
+899,0,59,F,0,Graduação,Casado,75373,Silver,21,2,18,6,33518,27471,191
+900,0,39,M,1,Pós-Graduação,Divorciado,33507,Platinum,7,1,18,10,9652,23290,153
+901,1,37,M,2,Ensino Médio,Divorciado,86915,Blue,12,1,16,4,48876,36933,106
+902,0,50,M,2,Ensino Médio,Divorciado,100168,Silver,64,3,48,1,24841,17352,363
+903,0,58,M,3,Ensino Médio,Casado,27700,Gold,60,5,49,5,45309,1313,386
+904,0,18,F,4,Graduação,Casado,64770,Platinum,72,5,40,11,15568,32176,336
+905,0,22,M,1,Pós-Graduação,Casado,141614,Blue,30,4,5,8,42038,44919,144
+906,0,68,F,0,Graduação,Solteiro,77811,Platinum,54,5,19,2,18759,14537,419
+907,0,48,M,0,Graduação,Divorciado,89022,Silver,60,5,48,0,28543,19981,450
+908,0,25,M,5,Graduação,Divorciado,99246,Silver,61,5,28,10,46764,22201,139
+909,0,35,M,5,Graduação,Divorciado,121705,Silver,79,1,34,5,39510,27041,224
+910,1,19,M,0,Graduação,Casado,73385,Gold,47,3,15,5,14731,45038,369
+911,1,61,F,0,Pós-Graduação,Casado,122220,Gold,116,1,43,4,35237,17209,174
+912,1,30,F,1,Ensino Médio,Viúvo,41436,Blue,14,3,29,8,10402,22620,359
+913,1,30,M,1,Ensino Médio,Divorciado,58702,Gold,69,4,50,12,21225,32517,345
+914,1,34,M,4,Graduação,Casado,133310,Silver,99,5,1,4,43815,26540,38
+915,0,34,M,5,Ensino Médio,Casado,106054,Gold,74,3,17,1,11491,12556,463
+916,0,70,F,3,Ensino Médio,Solteiro,114156,Platinum,84,5,30,6,18497,26562,27
+917,1,52,F,5,Pós-Graduação,Divorciado,49663,Platinum,44,3,26,2,41530,9097,53
+918,1,49,F,3,Ensino Médio,Casado,103621,Silver,84,4,30,12,19716,10406,494
+919,1,57,F,5,Pós-Graduação,Solteiro,49120,Blue,85,5,15,0,29300,5145,160
+920,0,62,M,0,Ensino Médio,Casado,75985,Blue,61,1,3,5,8474,43180,464
+921,1,38,M,4,Ensino Médio,Casado,65032,Silver,68,4,12,3,27780,12689,87
+922,1,40,F,1,Graduação,Viúvo,126912,Blue,114,1,27,3,38035,32503,153
+923,1,65,F,0,Ensino Médio,Casado,134729,Silver,17,1,47,10,5344,19360,484
+924,0,32,M,4,Ensino Médio,Solteiro,51161,Platinum,106,4,6,11,38275,1353,420
+925,0,65,F,0,Graduação,Solteiro,66096,Blue,28,5,6,8,28774,45148,366
+926,1,51,M,0,Pós-Graduação,Divorciado,105561,Silver,102,2,23,1,8931,45394,31
+927,1,70,M,1,Ensino Médio,Casado,64667,Gold,59,5,12,11,23863,15729,192
+928,1,53,M,3,Graduação,Solteiro,110025,Silver,60,1,30,11,36755,2921,402
+929,1,32,F,2,Pós-Graduação,Solteiro,99179,Gold,67,3,34,7,22008,9366,230
+930,1,53,F,3,Ensino Médio,Divorciado,80347,Silver,120,3,23,12,48329,10381,366
+931,1,21,F,0,Ensino Médio,Viúvo,29920,Gold,22,4,48,10,27496,9526,456
+932,1,65,M,5,Pós-Graduação,Viúvo,135609,Blue,41,4,7,12,36111,12946,411
+933,1,31,F,1,Graduação,Divorciado,25961,Silver,52,3,43,12,13462,24439,45
+934,0,33,F,0,Graduação,Divorciado,96744,Silver,75,5,18,4,46897,32616,323
+935,1,54,F,2,Graduação,Solteiro,128454,Silver,25,3,7,1,25603,39236,401
+936,0,58,F,2,Pós-Graduação,Divorciado,51644,Platinum,26,5,30,5,25840,25574,327
+937,0,47,F,2,Graduação,Casado,128608,Platinum,83,5,10,6,16679,16013,177
+938,1,55,F,2,Pós-Graduação,Casado,55430,Platinum,84,3,40,8,49463,29261,61
+939,0,26,F,2,Pós-Graduação,Solteiro,46161,Gold,32,5,38,1,43509,32514,224
+940,0,22,M,1,Pós-Graduação,Viúvo,41147,Platinum,111,1,27,4,17618,17762,469
+941,1,67,M,1,Ensino Médio,Viúvo,145549,Silver,42,5,43,8,24312,28402,383
+942,1,36,F,2,Ensino Médio,Solteiro,83984,Gold,76,3,37,2,22081,19010,324
+943,0,64,M,4,Pós-Graduação,Solteiro,70094,Gold,105,1,31,11,26898,13399,255
+944,0,63,F,2,Graduação,Divorciado,76415,Blue,80,4,18,11,25269,3000,225
+945,0,58,M,4,Pós-Graduação,Viúvo,103703,Platinum,67,1,39,4,46494,12458,144
+946,0,34,F,4,Graduação,Divorciado,74867,Blue,100,2,28,2,49595,38817,146
+947,0,28,M,5,Pós-Graduação,Viúvo,35066,Blue,67,3,8,10,17802,42326,191
+948,1,42,M,0,Ensino Médio,Solteiro,38431,Gold,75,4,37,8,29569,18242,453
+949,1,49,F,4,Ensino Médio,Divorciado,132405,Silver,18,4,44,0,36679,3109,102
+950,1,42,F,4,Pós-Graduação,Solteiro,128737,Gold,2,2,24,6,10594,26294,276
+951,1,36,M,3,Ensino Médio,Casado,45581,Platinum,99,5,34,10,23875,21624,387
+952,0,49,M,3,Pós-Graduação,Viúvo,102461,Gold,63,1,43,7,38662,15955,354
+953,1,19,F,4,Ensino Médio,Casado,110628,Blue,10,4,23,3,43351,35535,203
+954,1,34,F,3,Graduação,Solteiro,52244,Silver,72,4,21,4,31083,4635,166
+955,1,64,F,3,Ensino Médio,Viúvo,77181,Blue,111,1,20,11,13336,25233,309
+956,0,70,F,5,Ensino Médio,Casado,70234,Gold,68,2,5,6,18978,36247,363
+957,0,49,M,0,Pós-Graduação,Solteiro,140119,Silver,68,1,40,0,28509,35100,306
+958,1,67,F,4,Pós-Graduação,Casado,66099,Platinum,11,2,14,5,8214,48097,358
+959,0,29,F,4,Graduação,Divorciado,46552,Platinum,31,4,26,11,19026,6732,304
+960,1,32,M,5,Ensino Médio,Casado,78399,Silver,88,5,45,7,8997,40475,456
+961,1,48,F,0,Ensino Médio,Casado,139897,Silver,106,5,30,5,31733,37018,139
+962,1,25,F,4,Pós-Graduação,Divorciado,30145,Platinum,4,3,22,10,41593,13801,477
+963,0,55,M,5,Graduação,Casado,64415,Blue,50,2,39,1,43797,21048,404
+964,1,57,M,3,Graduação,Viúvo,109283,Silver,42,1,19,12,30555,36578,280
+965,1,33,M,2,Ensino Médio,Divorciado,71243,Blue,80,2,27,9,28251,5992,420
+966,1,56,M,0,Graduação,Divorciado,34358,Silver,22,1,6,7,13692,39257,284
+967,0,51,M,1,Ensino Médio,Divorciado,35130,Blue,7,4,17,12,21706,11434,109
+968,1,23,M,1,Graduação,Casado,52918,Silver,115,2,0,0,7168,17761,75
+969,1,19,F,2,Graduação,Viúvo,46987,Gold,81,4,44,7,36277,11222,486
+970,0,23,F,0,Graduação,Divorciado,44213,Blue,112,2,19,10,43576,1422,421
+971,1,41,F,0,Ensino Médio,Divorciado,103835,Gold,14,1,14,8,20746,20980,373
+972,0,27,F,3,Pós-Graduação,Viúvo,134250,Blue,93,5,25,4,31427,4039,88
+973,0,55,F,5,Ensino Médio,Viúvo,81530,Gold,68,4,19,4,15254,20244,335
+974,1,65,M,2,Ensino Médio,Viúvo,98779,Blue,113,2,13,6,49222,9005,219
+975,1,49,M,5,Graduação,Viúvo,126309,Gold,36,1,26,0,25568,40111,40
+976,1,25,M,2,Graduação,Divorciado,26377,Silver,94,2,16,12,17006,17582,32
+977,1,30,M,4,Pós-Graduação,Viúvo,99670,Silver,45,5,37,11,18058,12251,360
+978,0,45,M,0,Pós-Graduação,Solteiro,24990,Blue,77,1,31,11,31344,24177,237
+979,0,70,F,3,Ensino Médio,Casado,51384,Blue,44,4,22,5,28494,38087,422
+980,0,24,F,3,Graduação,Viúvo,145395,Gold,92,2,46,9,26620,20477,463
+981,1,42,M,0,Graduação,Divorciado,56842,Gold,66,5,9,2,29701,4733,62
+982,0,40,M,5,Ensino Médio,Solteiro,69642,Gold,64,5,18,9,46569,4098,168
+983,0,60,F,4,Graduação,Divorciado,77172,Platinum,2,5,7,11,5420,32925,446
+984,0,34,M,0,Pós-Graduação,Solteiro,108447,Platinum,96,2,15,12,35194,19196,61
+985,1,33,M,4,Graduação,Divorciado,141651,Silver,67,4,30,12,20146,46174,474
+986,1,56,M,3,Graduação,Divorciado,22076,Gold,54,1,26,6,29797,23454,27
+987,1,60,M,5,Graduação,Solteiro,127342,Platinum,105,4,23,6,23351,35969,263
+988,1,19,M,2,Pós-Graduação,Viúvo,88055,Silver,103,3,24,1,10324,3153,380
+989,0,57,F,2,Pós-Graduação,Viúvo,92605,Gold,23,2,26,3,7519,13671,83
+990,0,39,F,4,Ensino Médio,Viúvo,41557,Silver,26,1,15,11,31440,4383,177
+991,1,31,M,2,Pós-Graduação,Solteiro,113821,Blue,50,5,18,9,27059,8205,408
+992,0,38,F,4,Graduação,Divorciado,71636,Silver,10,3,44,8,9762,28075,447
+993,1,30,M,5,Ensino Médio,Divorciado,56115,Blue,106,1,29,4,16861,21116,200
+994,1,35,M,2,Pós-Graduação,Divorciado,109912,Blue,53,4,40,3,28930,21575,495
+995,0,54,F,4,Graduação,Viúvo,72885,Platinum,36,5,21,9,14486,23141,352
+996,1,55,M,4,Ensino Médio,Divorciado,77255,Blue,31,4,7,8,6633,37630,486
+997,0,42,F,4,Pós-Graduação,Viúvo,113018,Gold,37,1,8,10,6292,23316,466
+998,0,30,M,0,Graduação,Divorciado,90640,Silver,102,5,23,0,29395,30215,454
+999,1,26,M,4,Ensino Médio,Casado,40656,Silver,89,5,26,2,16202,22398,411
+1000,1,70,M,2,Graduação,Casado,65773,Silver,10,5,44,0,33290,21990,160
