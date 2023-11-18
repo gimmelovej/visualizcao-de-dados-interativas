@@ -27,7 +27,7 @@ app.layout = dbc.Container(
             value='salario_anual',  # Valor padrão
             style={'width': '50%'}
         ),
-
+        
         # Dropdown para seleção da gráfico
         dcc.Dropdown(
             id='dropdown-tipo-grafico',
@@ -39,7 +39,17 @@ app.layout = dbc.Container(
             value='line',  # Valor padrão
             style={'width': '50%'}
         ),
+        # Botão para analisar a porcentagem de inadimplência
+        dbc.Button(
+            'Analisar Inadimplência',
+            id='analisar-inadimplencia',
+            color='warning',
+            className='mt-3'
+        ),
 
+        # Saída para exibir o relatório de inadimplência
+        html.Div(id='output-relatorio-inadimplencia'),
+        
         # Gráfico de dispersão interativo
         dcc.Graph(
             id='grafico-dinamico',
@@ -56,6 +66,30 @@ app.layout = dbc.Container(
     ],
     fluid=True,
 )
+
+
+@app.callback(
+    Output('output-relatorio-inadimplencia', 'children'),
+    [Input('analisar-inadimplencia', 'n_clicks')],
+    prevent_initial_call=True
+)
+def analisar_inadimplencia(n_clicks):
+    if n_clicks is None:
+        return dash.no_update
+    
+    # Calcular a porcentagem de inadimplência
+    total_clientes = len(df)
+    inadimplentes = df['default'].sum()
+    percentual_inadimplencia = (inadimplentes / total_clientes) * 100
+
+    return html.Div([
+        html.Hr(),
+        html.H4('Relatório de Inadimplência:'),
+        html.P(f'Total de clientes: {total_clientes}'),
+        html.P(f'Clientes inadimplentes: {inadimplentes}'),
+        html.P(f'Porcentagem de inadimplência: {percentual_inadimplencia:.2f}%'),
+    ])
+
 
 # Callback para atualizar o gráfico com base na variável selecionada
 @app.callback(
