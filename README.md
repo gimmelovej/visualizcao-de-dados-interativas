@@ -4,20 +4,22 @@ Este projeto consiste em uma dashboard interativa para visualização e análise
 
 ## Funcionalidades
 
-1. **Upload de Dados:**
-   - Os usuários podem carregar dois conjuntos de dados CSV para análise.
+1. **Inserção de Dados:**
    - Os dados são lidos dinamicamente e as opções para escolha de colunas-chave são atualizadas automaticamente.
 
 2. **Escolha de Colunas-Chave:**
-   - Os usuários podem escolher colunas-chave de ambos os conjuntos de dados para realizar o cruzamento.
+   - Os usuários podem escolher colunas-chave do conjunto de dados.
 
 3. **Visualização Gráfica:**
-   - A dashboard exibe dois gráficos interativos com base nos dados cruzados.
-   - Um gráfico de dispersão (scatter plot) e um histograma são gerados para análise visual.
+   - A dashboard exibe os gráficos interativos com base nos dados cruzados.
+   - Um gráfico de dispersão (scatter plot),um gráfico de Linhas e um Barras são gerados para análise visual.
 
 4. **Exportação de Dados:**
    - Os usuários podem exportar os dados cruzados para um arquivo CSV.
    - Um botão estilizado facilita o processo de exportação.
+
+5. **Análise de Inadimplência:**
+   - Os usuários podem pedir uma análise rápida sobre a presença de inadimplência dentro da fonte de dados
 
 ## Importância e Impactos Profissionais
 
